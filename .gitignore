@@ -1,0 +1,36 @@
+# Secrets: copy .env.example to .env and fill it in locally
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.pytest_cache/
+
+# Local run outputs (regenerable with the scripts)
+runs/
+data/review/
+
+# Phase 6+: downloaded base models, LoRA adapters, fused models, checkpoints
+models/
+adapters/
+checkpoints/
+*.safetensors
+*.gguf
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+*.swp
+
+# Local Claude Code settings
+.claude/settings.local.json

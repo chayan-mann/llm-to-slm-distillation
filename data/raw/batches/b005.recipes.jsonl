@@ -1,0 +1,100 @@
+{"id": "t0421", "aimed_category": "data_sync_issue", "aimed_multi_intent": false, "tone": "worried", "noise": "letter format, signature", "identifiers": "workspace subdomain", "boundary": ""}
+{"id": "t0422", "aimed_category": "data_sync_issue", "aimed_multi_intent": false, "tone": "terse", "noise": "lowercase", "identifiers": "none", "boundary": ""}
+{"id": "t0423", "aimed_category": "data_sync_issue", "aimed_multi_intent": false, "tone": "puzzled", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0424", "aimed_category": "data_sync_issue", "aimed_multi_intent": false, "tone": "distressed", "noise": "", "identifiers": "workspace ID", "boundary": ""}
+{"id": "t0425", "aimed_category": "data_sync_issue", "aimed_multi_intent": false, "tone": "curious", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0426", "aimed_category": "data_sync_issue", "aimed_multi_intent": false, "tone": "upset", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0427", "aimed_category": "data_sync_issue", "aimed_multi_intent": false, "tone": "frustrated", "noise": "", "identifiers": "workspace subdomain", "boundary": "triggered by mobile edits; could be mobile_app_issue"}
+{"id": "t0428", "aimed_category": "data_sync_issue", "aimed_multi_intent": false, "tone": "alarmed", "noise": "", "identifiers": "org ID", "boundary": ""}
+{"id": "t0429", "aimed_category": "data_sync_issue", "aimed_multi_intent": false, "tone": "concerned", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0430", "aimed_category": "data_sync_issue", "aimed_multi_intent": false, "tone": "alarmed", "noise": "letter format, signature", "identifiers": "org ID", "boundary": ""}
+{"id": "t0431", "aimed_category": "data_sync_issue", "aimed_multi_intent": false, "tone": "confused", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0432", "aimed_category": "data_sync_issue", "aimed_multi_intent": false, "tone": "concerned", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0433", "aimed_category": "data_sync_issue", "aimed_multi_intent": true, "tone": "neutral", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0434", "aimed_category": "data_sync_issue", "aimed_multi_intent": false, "tone": "neutral", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0435", "aimed_category": "data_sync_issue", "aimed_multi_intent": false, "tone": "shocked", "noise": "", "identifiers": "workspace ID", "boundary": "content lost when removing a member; could be user_management"}
+{"id": "t0436", "aimed_category": "integration_issue", "aimed_multi_intent": false, "tone": "neutral", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0437", "aimed_category": "integration_issue", "aimed_multi_intent": false, "tone": "terse", "noise": "lowercase, telegraphic", "identifiers": "none", "boundary": ""}
+{"id": "t0438", "aimed_category": "integration_issue", "aimed_multi_intent": false, "tone": "neutral", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0439", "aimed_category": "integration_issue", "aimed_multi_intent": false, "tone": "concerned", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0440", "aimed_category": "integration_issue", "aimed_multi_intent": false, "tone": "professional", "noise": "letter format, signature", "identifiers": "workspace subdomain", "boundary": ""}
+{"id": "t0441", "aimed_category": "integration_issue", "aimed_multi_intent": false, "tone": "terse", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0442", "aimed_category": "integration_issue", "aimed_multi_intent": false, "tone": "alarmed", "noise": "", "identifiers": "sync ID", "boundary": ""}
+{"id": "t0443", "aimed_category": "integration_issue", "aimed_multi_intent": false, "tone": "puzzled", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0444", "aimed_category": "integration_issue", "aimed_multi_intent": false, "tone": "weary", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0445", "aimed_category": "integration_issue", "aimed_multi_intent": true, "tone": "friendly", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0446", "aimed_category": "integration_issue", "aimed_multi_intent": false, "tone": "frustrated", "noise": "", "identifiers": "third-party OAuth error", "boundary": ""}
+{"id": "t0447", "aimed_category": "integration_issue", "aimed_multi_intent": false, "tone": "neutral", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0448", "aimed_category": "integration_issue", "aimed_multi_intent": false, "tone": "puzzled", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0449", "aimed_category": "integration_issue", "aimed_multi_intent": false, "tone": "concerned", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0450", "aimed_category": "integration_issue", "aimed_multi_intent": false, "tone": "neutral", "noise": "", "identifiers": "workspace ID", "boundary": ""}
+{"id": "t0451", "aimed_category": "api_support", "aimed_multi_intent": false, "tone": "technical", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0452", "aimed_category": "api_support", "aimed_multi_intent": false, "tone": "technical", "noise": "JSON snippet", "identifiers": "request ID", "boundary": ""}
+{"id": "t0453", "aimed_category": "api_support", "aimed_multi_intent": false, "tone": "technical", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0454", "aimed_category": "api_support", "aimed_multi_intent": false, "tone": "professional", "noise": "letter format, signature", "identifiers": "developer email + client ID", "boundary": ""}
+{"id": "t0455", "aimed_category": "api_support", "aimed_multi_intent": false, "tone": "casual", "noise": "lowercase", "identifiers": "none", "boundary": ""}
+{"id": "t0456", "aimed_category": "api_support", "aimed_multi_intent": false, "tone": "technical", "noise": "", "identifiers": "request ID", "boundary": ""}
+{"id": "t0457", "aimed_category": "api_support", "aimed_multi_intent": false, "tone": "technical", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0458", "aimed_category": "api_support", "aimed_multi_intent": false, "tone": "urgent", "noise": "", "identifiers": "account ID", "boundary": ""}
+{"id": "t0459", "aimed_category": "api_support", "aimed_multi_intent": false, "tone": "curious", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0460", "aimed_category": "api_support", "aimed_multi_intent": false, "tone": "practical", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0461", "aimed_category": "api_support", "aimed_multi_intent": false, "tone": "technical", "noise": "", "identifiers": "project ID + two request IDs", "boundary": ""}
+{"id": "t0462", "aimed_category": "api_support", "aimed_multi_intent": false, "tone": "cautious", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0463", "aimed_category": "api_support", "aimed_multi_intent": false, "tone": "concerned", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0464", "aimed_category": "api_support", "aimed_multi_intent": false, "tone": "mildly annoyed", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0465", "aimed_category": "api_support", "aimed_multi_intent": false, "tone": "careful", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0466", "aimed_category": "api_support", "aimed_multi_intent": false, "tone": "technical", "noise": "", "identifiers": "request ID", "boundary": ""}
+{"id": "t0467", "aimed_category": "api_support", "aimed_multi_intent": false, "tone": "technical", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0468", "aimed_category": "api_support", "aimed_multi_intent": false, "tone": "practical", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0469", "aimed_category": "api_support", "aimed_multi_intent": false, "tone": "technical", "noise": "letter format, signature", "identifiers": "two webhook event IDs", "boundary": ""}
+{"id": "t0470", "aimed_category": "import_export", "aimed_multi_intent": false, "tone": "puzzled", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0471", "aimed_category": "import_export", "aimed_multi_intent": false, "tone": "casual", "noise": "lowercase", "identifiers": "none", "boundary": ""}
+{"id": "t0472", "aimed_category": "import_export", "aimed_multi_intent": false, "tone": "professional", "noise": "letter format, signature", "identifiers": "none", "boundary": ""}
+{"id": "t0473", "aimed_category": "import_export", "aimed_multi_intent": false, "tone": "careful", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0474", "aimed_category": "import_export", "aimed_multi_intent": false, "tone": "neutral", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0475", "aimed_category": "import_export", "aimed_multi_intent": false, "tone": "neutral", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0476", "aimed_category": "import_export", "aimed_multi_intent": false, "tone": "technical", "noise": "", "identifiers": "org ID", "boundary": ""}
+{"id": "t0477", "aimed_category": "import_export", "aimed_multi_intent": false, "tone": "professional", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0478", "aimed_category": "import_export", "aimed_multi_intent": false, "tone": "alarmed", "noise": "", "identifiers": "workspace subdomain", "boundary": ""}
+{"id": "t0479", "aimed_category": "import_export", "aimed_multi_intent": false, "tone": "suspicious", "noise": "lowercase, double punctuation", "identifiers": "none", "boundary": ""}
+{"id": "t0480", "aimed_category": "import_export", "aimed_multi_intent": false, "tone": "neutral", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0481", "aimed_category": "import_export", "aimed_multi_intent": true, "tone": "careful", "noise": "", "identifiers": "none", "boundary": "per-person export and deletion request; could be privacy_compliance"}
+{"id": "t0482", "aimed_category": "import_export", "aimed_multi_intent": false, "tone": "neutral", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0483", "aimed_category": "import_export", "aimed_multi_intent": false, "tone": "puzzled", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0484", "aimed_category": "import_export", "aimed_multi_intent": false, "tone": "neutral", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0485", "aimed_category": "api_support", "aimed_multi_intent": false, "tone": "technical", "noise": "", "identifiers": "request ID", "boundary": "API returns incomplete data; could be data_sync_issue"}
+{"id": "t0486", "aimed_category": "data_sync_issue", "aimed_multi_intent": false, "tone": "puzzled", "noise": "", "identifiers": "none", "boundary": "phone lags behind the web; could be mobile_app_issue"}
+{"id": "t0487", "aimed_category": "data_sync_issue", "aimed_multi_intent": false, "tone": "urgent", "noise": "", "identifiers": "account ID", "boundary": ""}
+{"id": "t0488", "aimed_category": "integration_issue", "aimed_multi_intent": false, "tone": "concerned", "noise": "", "identifiers": "none", "boundary": "integration missing after a downgrade; could be plan_change"}
+{"id": "t0489", "aimed_category": "integration_issue", "aimed_multi_intent": false, "tone": "terse", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0490", "aimed_category": "integration_issue", "aimed_multi_intent": false, "tone": "friendly", "noise": "", "identifiers": "workspace ID", "boundary": ""}
+{"id": "t0491", "aimed_category": "compromised_account", "aimed_multi_intent": false, "tone": "urgent", "noise": "", "identifiers": "account ID", "boundary": "leaked API key; could be api_support"}
+{"id": "t0492", "aimed_category": "api_support", "aimed_multi_intent": false, "tone": "neutral", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0493", "aimed_category": "api_support", "aimed_multi_intent": false, "tone": "professional", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0494", "aimed_category": "import_export", "aimed_multi_intent": false, "tone": "stressed", "noise": "", "identifiers": "error code + workspace subdomain", "boundary": ""}
+{"id": "t0495", "aimed_category": "import_export", "aimed_multi_intent": false, "tone": "neutral", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0496", "aimed_category": "import_export", "aimed_multi_intent": true, "tone": "neutral", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0497", "aimed_category": "data_sync_issue", "aimed_multi_intent": false, "tone": "alarmed", "noise": "", "identifiers": "org ID", "boundary": "data lost via an import; could be import_export"}
+{"id": "t0498", "aimed_category": "api_support", "aimed_multi_intent": false, "tone": "terse", "noise": "lowercase", "identifiers": "bare HTTP code", "boundary": ""}
+{"id": "t0499", "aimed_category": "import_export", "aimed_multi_intent": true, "tone": "neutral", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0500", "aimed_category": "api_support", "aimed_multi_intent": false, "tone": "technical", "noise": "", "identifiers": "webhook event ID", "boundary": ""}
+{"id": "t0501", "aimed_category": "integration_issue", "aimed_multi_intent": false, "tone": "neutral", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0502", "aimed_category": "data_sync_issue", "aimed_multi_intent": false, "tone": "desperate", "noise": "", "identifiers": "workspace ID", "boundary": "self-inflicted deletion via automation; restore request"}
+{"id": "t0503", "aimed_category": "data_sync_issue", "aimed_multi_intent": false, "tone": "neutral", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0504", "aimed_category": "data_sync_issue", "aimed_multi_intent": false, "tone": "mild", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0505", "aimed_category": "integration_issue", "aimed_multi_intent": true, "tone": "curious", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0506", "aimed_category": "integration_issue", "aimed_multi_intent": false, "tone": "neutral", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0507", "aimed_category": "api_support", "aimed_multi_intent": false, "tone": "neutral", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0508", "aimed_category": "api_support", "aimed_multi_intent": false, "tone": "technical", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0509", "aimed_category": "import_export", "aimed_multi_intent": false, "tone": "neutral", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0510", "aimed_category": "import_export", "aimed_multi_intent": false, "tone": "urgent", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0511", "aimed_category": "import_export", "aimed_multi_intent": false, "tone": "urgent", "noise": "", "identifiers": "org ID + workspace subdomain", "boundary": ""}
+{"id": "t0512", "aimed_category": "import_export", "aimed_multi_intent": false, "tone": "neutral", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0513", "aimed_category": "integration_issue", "aimed_multi_intent": false, "tone": "terse", "noise": "lowercase", "identifiers": "none", "boundary": ""}
+{"id": "t0514", "aimed_category": "api_support", "aimed_multi_intent": false, "tone": "curious", "noise": "", "identifiers": "none", "boundary": "may be a missing feature; could be feature_request"}
+{"id": "t0515", "aimed_category": "data_sync_issue", "aimed_multi_intent": false, "tone": "concerned", "noise": "", "identifiers": "workspace subdomain", "boundary": ""}
+{"id": "t0516", "aimed_category": "import_export", "aimed_multi_intent": false, "tone": "neutral", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0517", "aimed_category": "api_support", "aimed_multi_intent": true, "tone": "neutral", "noise": "", "identifiers": "request ID", "boundary": "pricing question comes first; primary is debatable (sales_inquiry)"}
+{"id": "t0518", "aimed_category": "feature_request", "aimed_multi_intent": false, "tone": "curious", "noise": "", "identifiers": "none", "boundary": "asks about an integration that doesn't exist; could be integration_issue"}
+{"id": "t0519", "aimed_category": "import_export", "aimed_multi_intent": false, "tone": "exasperated", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0520", "aimed_category": "data_sync_issue", "aimed_multi_intent": false, "tone": "desperate", "noise": "", "identifiers": "account ID", "boundary": "user deleted it themselves; restore request"}

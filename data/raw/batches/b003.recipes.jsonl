@@ -1,0 +1,100 @@
+{"id": "t0221", "aimed_category": "plan_change", "aimed_multi_intent": false, "tone": "professional", "noise": "numbered list, signature", "identifiers": "workspace subdomain", "boundary": ""}
+{"id": "t0222", "aimed_category": "plan_change", "aimed_multi_intent": false, "tone": "terse", "noise": "lowercase", "identifiers": "none", "boundary": ""}
+{"id": "t0223", "aimed_category": "plan_change", "aimed_multi_intent": false, "tone": "worried", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0224", "aimed_category": "plan_change", "aimed_multi_intent": false, "tone": "neutral", "noise": "", "identifiers": "account ID", "boundary": ""}
+{"id": "t0225", "aimed_category": "plan_change", "aimed_multi_intent": false, "tone": "formal", "noise": "signature", "identifiers": "none", "boundary": "discount question; could be sales_inquiry"}
+{"id": "t0226", "aimed_category": "plan_change", "aimed_multi_intent": false, "tone": "frustrated", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0227", "aimed_category": "plan_change", "aimed_multi_intent": false, "tone": "efficient", "noise": "", "identifiers": "workspace ID", "boundary": ""}
+{"id": "t0228", "aimed_category": "plan_change", "aimed_multi_intent": false, "tone": "friendly", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0229", "aimed_category": "plan_change", "aimed_multi_intent": false, "tone": "impatient", "noise": "", "identifiers": "email", "boundary": ""}
+{"id": "t0230", "aimed_category": "plan_change", "aimed_multi_intent": false, "tone": "professional", "noise": "", "identifiers": "org ID", "boundary": ""}
+{"id": "t0231", "aimed_category": "plan_change", "aimed_multi_intent": false, "tone": "friendly", "noise": "", "identifiers": "none", "boundary": "pausing instead of cancelling; could be cancellation"}
+{"id": "t0232", "aimed_category": "plan_change", "aimed_multi_intent": false, "tone": "neutral", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0233", "aimed_category": "plan_change", "aimed_multi_intent": false, "tone": "neutral", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0234", "aimed_category": "plan_change", "aimed_multi_intent": false, "tone": "disappointed", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0235", "aimed_category": "plan_change", "aimed_multi_intent": true, "tone": "formal", "noise": "", "identifiers": "VAT number (not a reference)", "boundary": ""}
+{"id": "t0236", "aimed_category": "plan_change", "aimed_multi_intent": false, "tone": "neutral", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0237", "aimed_category": "plan_change", "aimed_multi_intent": false, "tone": "casual", "noise": "lowercase, fragments", "identifiers": "none", "boundary": ""}
+{"id": "t0238", "aimed_category": "plan_change", "aimed_multi_intent": false, "tone": "neutral", "noise": "", "identifiers": "workspace subdomain", "boundary": ""}
+{"id": "t0239", "aimed_category": "plan_change", "aimed_multi_intent": false, "tone": "worried", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0240", "aimed_category": "plan_change", "aimed_multi_intent": false, "tone": "eager", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0241", "aimed_category": "plan_change", "aimed_multi_intent": false, "tone": "cautious", "noise": "", "identifiers": "none", "boundary": "existing customer asking pre-upgrade questions; could be sales_inquiry"}
+{"id": "t0242", "aimed_category": "plan_change", "aimed_multi_intent": true, "tone": "neutral", "noise": "", "identifiers": "account ID", "boundary": ""}
+{"id": "t0243", "aimed_category": "plan_change", "aimed_multi_intent": false, "tone": "cost-conscious", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0244", "aimed_category": "plan_change", "aimed_multi_intent": false, "tone": "neutral", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0245", "aimed_category": "plan_change", "aimed_multi_intent": false, "tone": "matter-of-fact", "noise": "", "identifiers": "workspace ID", "boundary": ""}
+{"id": "t0246", "aimed_category": "cancellation", "aimed_multi_intent": false, "tone": "polite", "noise": "", "identifiers": "workspace ID", "boundary": ""}
+{"id": "t0247", "aimed_category": "cancellation", "aimed_multi_intent": false, "tone": "frustrated", "noise": "lowercase, no punctuation", "identifiers": "none", "boundary": ""}
+{"id": "t0248", "aimed_category": "cancellation", "aimed_multi_intent": false, "tone": "polite", "noise": "", "identifiers": "email", "boundary": ""}
+{"id": "t0249", "aimed_category": "cancellation", "aimed_multi_intent": false, "tone": "formal", "noise": "letter format, signature", "identifiers": "account ID", "boundary": ""}
+{"id": "t0250", "aimed_category": "cancellation", "aimed_multi_intent": false, "tone": "curt", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0251", "aimed_category": "cancellation", "aimed_multi_intent": false, "tone": "neutral", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0252", "aimed_category": "cancellation", "aimed_multi_intent": false, "tone": "neutral", "noise": "", "identifiers": "none", "boundary": "cancelling a trial; could be trial_extension"}
+{"id": "t0253", "aimed_category": "cancellation", "aimed_multi_intent": false, "tone": "exasperated", "noise": "", "identifiers": "email", "boundary": ""}
+{"id": "t0254", "aimed_category": "cancellation", "aimed_multi_intent": true, "tone": "wistful", "noise": "", "identifiers": "workspace subdomain", "boundary": ""}
+{"id": "t0255", "aimed_category": "cancellation", "aimed_multi_intent": false, "tone": "curt", "noise": "", "identifiers": "account ID", "boundary": ""}
+{"id": "t0256", "aimed_category": "cancellation", "aimed_multi_intent": false, "tone": "worried", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0257", "aimed_category": "cancellation", "aimed_multi_intent": false, "tone": "neutral", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0258", "aimed_category": "cancellation", "aimed_multi_intent": false, "tone": "friendly", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0259", "aimed_category": "cancellation", "aimed_multi_intent": false, "tone": "grieving", "noise": "", "identifiers": "card digits (not an identifier)", "boundary": ""}
+{"id": "t0260", "aimed_category": "cancellation", "aimed_multi_intent": true, "tone": "firm", "noise": "", "identifiers": "email", "boundary": ""}
+{"id": "t0261", "aimed_category": "cancellation", "aimed_multi_intent": false, "tone": "annoyed", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0262", "aimed_category": "cancellation", "aimed_multi_intent": false, "tone": "neutral", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0263", "aimed_category": "cancellation", "aimed_multi_intent": false, "tone": "neutral", "noise": "", "identifiers": "org ID", "boundary": ""}
+{"id": "t0264", "aimed_category": "cancellation", "aimed_multi_intent": false, "tone": "polite", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0265", "aimed_category": "cancellation", "aimed_multi_intent": false, "tone": "angry", "noise": "", "identifiers": "workspace subdomain", "boundary": ""}
+{"id": "t0266", "aimed_category": "payment_failure", "aimed_multi_intent": false, "tone": "puzzled", "noise": "", "identifiers": "account ID", "boundary": ""}
+{"id": "t0267", "aimed_category": "payment_failure", "aimed_multi_intent": false, "tone": "neutral", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0268", "aimed_category": "payment_failure", "aimed_multi_intent": false, "tone": "anxious", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0269", "aimed_category": "payment_failure", "aimed_multi_intent": false, "tone": "panicked", "noise": "", "identifiers": "workspace subdomain + invoice", "boundary": ""}
+{"id": "t0270", "aimed_category": "payment_failure", "aimed_multi_intent": false, "tone": "professional", "noise": "", "identifiers": "none", "boundary": "payment method change; could be invoice_request"}
+{"id": "t0271", "aimed_category": "payment_failure", "aimed_multi_intent": false, "tone": "technical", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0272", "aimed_category": "payment_failure", "aimed_multi_intent": false, "tone": "neutral", "noise": "", "identifiers": "org ID", "boundary": ""}
+{"id": "t0273", "aimed_category": "payment_failure", "aimed_multi_intent": false, "tone": "neutral", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0274", "aimed_category": "payment_failure", "aimed_multi_intent": false, "tone": "neutral", "noise": "", "identifiers": "account ID", "boundary": ""}
+{"id": "t0275", "aimed_category": "payment_failure", "aimed_multi_intent": false, "tone": "stressed", "noise": "", "identifiers": "error code", "boundary": ""}
+{"id": "t0276", "aimed_category": "payment_failure", "aimed_multi_intent": false, "tone": "neutral", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0277", "aimed_category": "payment_failure", "aimed_multi_intent": true, "tone": "firm", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0278", "aimed_category": "payment_failure", "aimed_multi_intent": false, "tone": "neutral", "noise": "", "identifiers": "workspace ID", "boundary": ""}
+{"id": "t0279", "aimed_category": "payment_failure", "aimed_multi_intent": false, "tone": "professional", "noise": "", "identifiers": "none", "boundary": "about giving a client billing access; could be user_management"}
+{"id": "t0280", "aimed_category": "payment_failure", "aimed_multi_intent": false, "tone": "stressed", "noise": "lowercase", "identifiers": "none", "boundary": ""}
+{"id": "t0281", "aimed_category": "payment_failure", "aimed_multi_intent": false, "tone": "proactive", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0282", "aimed_category": "payment_failure", "aimed_multi_intent": false, "tone": "neutral", "noise": "", "identifiers": "workspace subdomain", "boundary": "billing page broken; could be bug_report"}
+{"id": "t0283", "aimed_category": "payment_failure", "aimed_multi_intent": false, "tone": "anxious", "noise": "", "identifiers": "processor decline code (not ours)", "boundary": ""}
+{"id": "t0284", "aimed_category": "payment_failure", "aimed_multi_intent": true, "tone": "neutral", "noise": "", "identifiers": "account ID", "boundary": ""}
+{"id": "t0285", "aimed_category": "invoice_request", "aimed_multi_intent": false, "tone": "polite", "noise": "", "identifiers": "workspace ID", "boundary": ""}
+{"id": "t0286", "aimed_category": "invoice_request", "aimed_multi_intent": false, "tone": "terse", "noise": "", "identifiers": "VAT number (not a reference)", "boundary": ""}
+{"id": "t0287", "aimed_category": "invoice_request", "aimed_multi_intent": false, "tone": "professional", "noise": "", "identifiers": "invoice + PO number", "boundary": ""}
+{"id": "t0288", "aimed_category": "invoice_request", "aimed_multi_intent": false, "tone": "neutral", "noise": "", "identifiers": "account ID", "boundary": ""}
+{"id": "t0289", "aimed_category": "invoice_request", "aimed_multi_intent": false, "tone": "terse", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0290", "aimed_category": "invoice_request", "aimed_multi_intent": false, "tone": "neutral", "noise": "", "identifiers": "email", "boundary": ""}
+{"id": "t0291", "aimed_category": "invoice_request", "aimed_multi_intent": false, "tone": "neutral", "noise": "", "identifiers": "invoice", "boundary": ""}
+{"id": "t0292", "aimed_category": "invoice_request", "aimed_multi_intent": false, "tone": "neutral", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0293", "aimed_category": "invoice_request", "aimed_multi_intent": false, "tone": "friendly", "noise": "", "identifiers": "finance email (not the login)", "boundary": ""}
+{"id": "t0294", "aimed_category": "invoice_request", "aimed_multi_intent": false, "tone": "formal", "noise": "", "identifiers": "none", "boundary": "formal quote before buying; could be sales_inquiry"}
+{"id": "t0295", "aimed_category": "invoice_request", "aimed_multi_intent": false, "tone": "careful", "noise": "", "identifiers": "invoice", "boundary": "amount mismatch; could be unexpected_charge"}
+{"id": "t0296", "aimed_category": "invoice_request", "aimed_multi_intent": false, "tone": "formal", "noise": "", "identifiers": "tax ID (not a reference) + workspace subdomain", "boundary": ""}
+{"id": "t0297", "aimed_category": "invoice_request", "aimed_multi_intent": false, "tone": "professional", "noise": "", "identifiers": "org ID", "boundary": ""}
+{"id": "t0298", "aimed_category": "invoice_request", "aimed_multi_intent": false, "tone": "casual", "noise": "lowercase", "identifiers": "invoice", "boundary": ""}
+{"id": "t0299", "aimed_category": "invoice_request", "aimed_multi_intent": false, "tone": "neutral", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0300", "aimed_category": "invoice_request", "aimed_multi_intent": false, "tone": "polite", "noise": "", "identifiers": "invoice", "boundary": ""}
+{"id": "t0301", "aimed_category": "invoice_request", "aimed_multi_intent": false, "tone": "neutral", "noise": "", "identifiers": "account ID", "boundary": ""}
+{"id": "t0302", "aimed_category": "invoice_request", "aimed_multi_intent": false, "tone": "neutral", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0303", "aimed_category": "invoice_request", "aimed_multi_intent": true, "tone": "polite", "noise": "numbered list", "identifiers": "invoice + workspace ID", "boundary": ""}
+{"id": "t0304", "aimed_category": "plan_change", "aimed_multi_intent": true, "tone": "neutral", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0305", "aimed_category": "cancellation", "aimed_multi_intent": false, "tone": "sheepish", "noise": "", "identifiers": "workspace subdomain", "boundary": ""}
+{"id": "t0306", "aimed_category": "cancellation", "aimed_multi_intent": true, "tone": "polite", "noise": "", "identifiers": "account ID", "boundary": ""}
+{"id": "t0307", "aimed_category": "cancellation", "aimed_multi_intent": true, "tone": "privacy-minded", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0308", "aimed_category": "cancellation", "aimed_multi_intent": false, "tone": "neutral", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0309", "aimed_category": "payment_failure", "aimed_multi_intent": false, "tone": "wary", "noise": "", "identifiers": "account ID", "boundary": ""}
+{"id": "t0310", "aimed_category": "payment_failure", "aimed_multi_intent": true, "tone": "careful", "noise": "", "identifiers": "invoice", "boundary": ""}
+{"id": "t0311", "aimed_category": "plan_change", "aimed_multi_intent": false, "tone": "neutral", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0312", "aimed_category": "payment_failure", "aimed_multi_intent": false, "tone": "exasperated", "noise": "", "identifiers": "email", "boundary": ""}
+{"id": "t0313", "aimed_category": "invoice_request", "aimed_multi_intent": false, "tone": "professional", "noise": "", "identifiers": "four workspace IDs", "boundary": ""}
+{"id": "t0314", "aimed_category": "invoice_request", "aimed_multi_intent": false, "tone": "neutral", "noise": "", "identifiers": "old email", "boundary": ""}
+{"id": "t0315", "aimed_category": "invoice_request", "aimed_multi_intent": false, "tone": "neutral", "noise": "self-correction mid-sentence", "identifiers": "account ID", "boundary": ""}
+{"id": "t0316", "aimed_category": "plan_change", "aimed_multi_intent": false, "tone": "urgent", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0317", "aimed_category": "cancellation", "aimed_multi_intent": false, "tone": "uncertain", "noise": "", "identifiers": "earlier ticket number", "boundary": ""}
+{"id": "t0318", "aimed_category": "payment_failure", "aimed_multi_intent": false, "tone": "neutral", "noise": "", "identifiers": "invoice", "boundary": ""}
+{"id": "t0319", "aimed_category": "invoice_request", "aimed_multi_intent": false, "tone": "neutral", "noise": "", "identifiers": "invoice", "boundary": ""}
+{"id": "t0320", "aimed_category": "payment_failure", "aimed_multi_intent": true, "tone": "formal", "noise": "", "identifiers": "org ID", "boundary": ""}

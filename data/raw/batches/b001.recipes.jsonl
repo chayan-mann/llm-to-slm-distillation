@@ -1,0 +1,100 @@
+{"id": "t0021", "aimed_category": "login_issue", "aimed_multi_intent": false, "tone": "neutral", "length": "short", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0022", "aimed_category": "login_issue", "aimed_multi_intent": false, "tone": "terse", "length": "very short", "noise": "lowercase, no punctuation", "identifiers": "none", "boundary": ""}
+{"id": "t0023", "aimed_category": "login_issue", "aimed_multi_intent": false, "tone": "frustrated", "length": "medium", "noise": "", "identifiers": "email", "boundary": ""}
+{"id": "t0024", "aimed_category": "login_issue", "aimed_multi_intent": false, "tone": "confused", "length": "medium", "noise": "", "identifiers": "workspace name only (not an identifier)", "boundary": ""}
+{"id": "t0025", "aimed_category": "login_issue", "aimed_multi_intent": false, "tone": "neutral", "length": "short", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0026", "aimed_category": "login_issue", "aimed_multi_intent": false, "tone": "neutral", "length": "short", "noise": "", "identifiers": "email + error code", "boundary": "social Google login, not enterprise SSO"}
+{"id": "t0027", "aimed_category": "login_issue", "aimed_multi_intent": false, "tone": "stressed", "length": "short", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0028", "aimed_category": "login_issue", "aimed_multi_intent": false, "tone": "frustrated", "length": "short", "noise": "", "identifiers": "none", "boundary": "session expiry could be read as bug_report"}
+{"id": "t0029", "aimed_category": "login_issue", "aimed_multi_intent": false, "tone": "calm", "length": "short", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0030", "aimed_category": "login_issue", "aimed_multi_intent": false, "tone": "frustrated", "length": "short", "noise": "double punctuation", "identifiers": "none", "boundary": ""}
+{"id": "t0031", "aimed_category": "login_issue", "aimed_multi_intent": false, "tone": "polite", "length": "medium", "noise": "", "identifiers": "none", "boundary": "deactivated ex-employee; could be user_management"}
+{"id": "t0032", "aimed_category": "login_issue", "aimed_multi_intent": false, "tone": "neutral", "length": "short", "noise": "", "identifiers": "email", "boundary": "signup verification email missing; could be email_delivery"}
+{"id": "t0033", "aimed_category": "login_issue", "aimed_multi_intent": true, "tone": "annoyed", "length": "short", "noise": "", "identifiers": "email", "boundary": "wants to cancel but is blocked by login"}
+{"id": "t0034", "aimed_category": "login_issue", "aimed_multi_intent": false, "tone": "neutral", "length": "short", "noise": "", "identifiers": "bare HTTP code", "boundary": ""}
+{"id": "t0035", "aimed_category": "login_issue", "aimed_multi_intent": false, "tone": "casual", "length": "very short", "noise": "lowercase", "identifiers": "account ID", "boundary": ""}
+{"id": "t0036", "aimed_category": "login_issue", "aimed_multi_intent": true, "tone": "neutral", "length": "medium", "noise": "numbered list", "identifiers": "none", "boundary": ""}
+{"id": "t0037", "aimed_category": "login_issue", "aimed_multi_intent": false, "tone": "apologetic", "length": "short", "noise": "", "identifiers": "username (not an identifier type in spec)", "boundary": ""}
+{"id": "t0038", "aimed_category": "login_issue", "aimed_multi_intent": false, "tone": "angry", "length": "short", "noise": "all caps", "identifiers": "email", "boundary": ""}
+{"id": "t0039", "aimed_category": "login_issue", "aimed_multi_intent": false, "tone": "confused", "length": "short", "noise": "", "identifiers": "none", "boundary": "blank page on one device; could be bug_report"}
+{"id": "t0040", "aimed_category": "login_issue", "aimed_multi_intent": false, "tone": "formal", "length": "medium", "noise": "", "identifiers": "email", "boundary": ""}
+{"id": "t0041", "aimed_category": "login_issue", "aimed_multi_intent": false, "tone": "neutral", "length": "medium", "noise": "", "identifiers": "old + new email", "boundary": "asks for an email change, but the blocker is login"}
+{"id": "t0042", "aimed_category": "login_issue", "aimed_multi_intent": false, "tone": "casual", "length": "short", "noise": "lowercase", "identifiers": "none", "boundary": ""}
+{"id": "t0043", "aimed_category": "login_issue", "aimed_multi_intent": true, "tone": "polite", "length": "medium", "noise": "", "identifiers": "card digits (not an identifier)", "boundary": ""}
+{"id": "t0044", "aimed_category": "login_issue", "aimed_multi_intent": false, "tone": "terse", "length": "short", "noise": "", "identifiers": "error code + workspace subdomain", "boundary": ""}
+{"id": "t0045", "aimed_category": "login_issue", "aimed_multi_intent": false, "tone": "friendly", "length": "short", "noise": "", "identifiers": "email", "boundary": ""}
+{"id": "t0046", "aimed_category": "mfa_issue", "aimed_multi_intent": false, "tone": "neutral", "length": "short", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0047", "aimed_category": "mfa_issue", "aimed_multi_intent": false, "tone": "neutral", "length": "short", "noise": "", "identifiers": "account ID", "boundary": ""}
+{"id": "t0048", "aimed_category": "mfa_issue", "aimed_multi_intent": false, "tone": "casual", "length": "short", "noise": "lowercase, no punctuation", "identifiers": "none", "boundary": ""}
+{"id": "t0049", "aimed_category": "mfa_issue", "aimed_multi_intent": false, "tone": "professional", "length": "short", "noise": "", "identifiers": "workspace ID", "boundary": ""}
+{"id": "t0050", "aimed_category": "mfa_issue", "aimed_multi_intent": false, "tone": "polite", "length": "short", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0051", "aimed_category": "mfa_issue", "aimed_multi_intent": false, "tone": "technical", "length": "short", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0052", "aimed_category": "mfa_issue", "aimed_multi_intent": false, "tone": "mildly annoyed", "length": "short", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0053", "aimed_category": "mfa_issue", "aimed_multi_intent": false, "tone": "calm", "length": "short", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0054", "aimed_category": "mfa_issue", "aimed_multi_intent": false, "tone": "urgent", "length": "medium", "noise": "", "identifiers": "email", "boundary": ""}
+{"id": "t0055", "aimed_category": "mfa_issue", "aimed_multi_intent": false, "tone": "neutral", "length": "short", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0056", "aimed_category": "mfa_issue", "aimed_multi_intent": false, "tone": "self-deprecating", "length": "short", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0057", "aimed_category": "mfa_issue", "aimed_multi_intent": false, "tone": "humorous", "length": "medium", "noise": "", "identifiers": "employee email + workspace ID", "boundary": "admin asking for another user; could be user_management"}
+{"id": "t0058", "aimed_category": "mfa_issue", "aimed_multi_intent": false, "tone": "neutral", "length": "short", "noise": "", "identifiers": "none", "boundary": "codes in spam; could be email_delivery"}
+{"id": "t0059", "aimed_category": "mfa_issue", "aimed_multi_intent": false, "tone": "calm", "length": "short", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0060", "aimed_category": "mfa_issue", "aimed_multi_intent": true, "tone": "neutral", "length": "medium", "noise": "", "identifiers": "account ID", "boundary": ""}
+{"id": "t0061", "aimed_category": "mfa_issue", "aimed_multi_intent": false, "tone": "neutral", "length": "short", "noise": "", "identifiers": "none", "boundary": "only on iPad; could be mobile_app_issue"}
+{"id": "t0062", "aimed_category": "mfa_issue", "aimed_multi_intent": false, "tone": "casual", "length": "short", "noise": "lowercase, no punctuation", "identifiers": "none", "boundary": ""}
+{"id": "t0063", "aimed_category": "mfa_issue", "aimed_multi_intent": false, "tone": "formal", "length": "short", "noise": "", "identifiers": "email", "boundary": ""}
+{"id": "t0064", "aimed_category": "mfa_issue", "aimed_multi_intent": false, "tone": "neutral", "length": "short", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0065", "aimed_category": "mfa_issue", "aimed_multi_intent": false, "tone": "curious", "length": "short", "noise": "", "identifiers": "none", "boundary": "how-to about 2FA; area-specific rule says mfa_issue"}
+{"id": "t0066", "aimed_category": "sso_setup", "aimed_multi_intent": false, "tone": "technical", "length": "medium", "noise": "", "identifiers": "org ID + third-party error code", "boundary": "Azure error code AADSTS50011 is a third-party code"}
+{"id": "t0067", "aimed_category": "sso_setup", "aimed_multi_intent": false, "tone": "professional", "length": "medium", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0068", "aimed_category": "sso_setup", "aimed_multi_intent": false, "tone": "terse", "length": "short", "noise": "lowercase", "identifiers": "customer domain (not a workspace subdomain)", "boundary": ""}
+{"id": "t0069", "aimed_category": "sso_setup", "aimed_multi_intent": false, "tone": "neutral", "length": "long", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0070", "aimed_category": "sso_setup", "aimed_multi_intent": false, "tone": "urgent", "length": "medium", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0071", "aimed_category": "sso_setup", "aimed_multi_intent": false, "tone": "professional", "length": "medium", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0072", "aimed_category": "sso_setup", "aimed_multi_intent": false, "tone": "technical", "length": "short", "noise": "lowercase", "identifiers": "none", "boundary": ""}
+{"id": "t0073", "aimed_category": "sso_setup", "aimed_multi_intent": false, "tone": "technical", "length": "short", "noise": "", "identifiers": "error code + workspace subdomain", "boundary": ""}
+{"id": "t0074", "aimed_category": "sso_setup", "aimed_multi_intent": false, "tone": "neutral", "length": "short", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0075", "aimed_category": "sso_setup", "aimed_multi_intent": false, "tone": "panicked", "length": "medium", "noise": "", "identifiers": "org ID + email", "boundary": "whole company locked out; could be read as service_outage"}
+{"id": "t0076", "aimed_category": "sso_setup", "aimed_multi_intent": false, "tone": "neutral", "length": "short", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0077", "aimed_category": "sso_setup", "aimed_multi_intent": false, "tone": "neutral", "length": "short", "noise": "", "identifiers": "bare HTTP code", "boundary": ""}
+{"id": "t0078", "aimed_category": "sso_setup", "aimed_multi_intent": false, "tone": "technical", "length": "short", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0079", "aimed_category": "sso_setup", "aimed_multi_intent": false, "tone": "professional", "length": "short", "noise": "", "identifiers": "workspace ID", "boundary": ""}
+{"id": "t0080", "aimed_category": "sso_setup", "aimed_multi_intent": false, "tone": "neutral", "length": "medium", "noise": "", "identifiers": "none", "boundary": "about 2FA for SSO users; could be mfa_issue"}
+{"id": "t0081", "aimed_category": "sso_setup", "aimed_multi_intent": false, "tone": "technical", "length": "short", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0082", "aimed_category": "sso_setup", "aimed_multi_intent": false, "tone": "neutral", "length": "short", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0083", "aimed_category": "sso_setup", "aimed_multi_intent": true, "tone": "neutral", "length": "medium", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0084", "aimed_category": "sso_setup", "aimed_multi_intent": false, "tone": "terse", "length": "short", "noise": "lowercase", "identifiers": "none", "boundary": "SSO fails only in the iOS app; could be mobile_app_issue"}
+{"id": "t0085", "aimed_category": "account_settings", "aimed_multi_intent": false, "tone": "neutral", "length": "very short", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0086", "aimed_category": "account_settings", "aimed_multi_intent": false, "tone": "neutral", "length": "short", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0087", "aimed_category": "account_settings", "aimed_multi_intent": false, "tone": "polite", "length": "very short", "noise": "non-native greeting", "identifiers": "none", "boundary": ""}
+{"id": "t0088", "aimed_category": "account_settings", "aimed_multi_intent": false, "tone": "frustrated", "length": "short", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0089", "aimed_category": "account_settings", "aimed_multi_intent": false, "tone": "annoyed", "length": "short", "noise": "", "identifiers": "email", "boundary": ""}
+{"id": "t0090", "aimed_category": "account_settings", "aimed_multi_intent": false, "tone": "neutral", "length": "short", "noise": "", "identifiers": "old + new email", "boundary": ""}
+{"id": "t0091", "aimed_category": "account_settings", "aimed_multi_intent": false, "tone": "neutral", "length": "very short", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0092", "aimed_category": "account_settings", "aimed_multi_intent": false, "tone": "terse", "length": "very short", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0093", "aimed_category": "bug_report", "aimed_multi_intent": false, "tone": "calm", "length": "short", "noise": "", "identifiers": "none", "boundary": "broken profile setting; could be account_settings"}
+{"id": "t0094", "aimed_category": "account_settings", "aimed_multi_intent": false, "tone": "neutral", "length": "short", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0095", "aimed_category": "account_settings", "aimed_multi_intent": false, "tone": "casual", "length": "short", "noise": "lowercase", "identifiers": "none", "boundary": "password change while logged in, not login_issue"}
+{"id": "t0096", "aimed_category": "account_settings", "aimed_multi_intent": false, "tone": "polite", "length": "medium", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0097", "aimed_category": "account_settings", "aimed_multi_intent": false, "tone": "neutral", "length": "medium", "noise": "", "identifiers": "two emails, one with a typo", "boundary": ""}
+{"id": "t0098", "aimed_category": "account_settings", "aimed_multi_intent": false, "tone": "neutral", "length": "short", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0099", "aimed_category": "account_settings", "aimed_multi_intent": false, "tone": "neutral", "length": "short", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0100", "aimed_category": "account_settings", "aimed_multi_intent": false, "tone": "neutral", "length": "short", "noise": "", "identifiers": "none", "boundary": "phone number also used for 2FA; could be mfa_issue"}
+{"id": "t0101", "aimed_category": "account_settings", "aimed_multi_intent": false, "tone": "neutral", "length": "short", "noise": "", "identifiers": "two emails", "boundary": "merging accounts has no clear category"}
+{"id": "t0102", "aimed_category": "account_settings", "aimed_multi_intent": false, "tone": "casual", "length": "short", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0103", "aimed_category": "account_settings", "aimed_multi_intent": false, "tone": "friendly", "length": "short", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0104", "aimed_category": "feature_request", "aimed_multi_intent": true, "tone": "polite", "length": "short", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0105", "aimed_category": "account_settings", "aimed_multi_intent": false, "tone": "frustrated", "length": "short", "noise": "double punctuation", "identifiers": "none", "boundary": ""}
+{"id": "t0106", "aimed_category": "account_settings", "aimed_multi_intent": false, "tone": "curious", "length": "short", "noise": "", "identifiers": "none", "boundary": "may not exist → feature_request or how_to_question"}
+{"id": "t0107", "aimed_category": "account_settings", "aimed_multi_intent": true, "tone": "irritated", "length": "very short", "noise": "", "identifiers": "none", "boundary": "conditional second intent (account_closure)"}
+{"id": "t0108", "aimed_category": "bug_report", "aimed_multi_intent": false, "tone": "neutral", "length": "short", "noise": "", "identifiers": "account ID", "boundary": "setting that won't stick; could be account_settings"}
+{"id": "t0109", "aimed_category": "account_settings", "aimed_multi_intent": true, "tone": "neutral", "length": "medium", "noise": "", "identifiers": "two invoice numbers", "boundary": ""}
+{"id": "t0110", "aimed_category": "bug_report", "aimed_multi_intent": false, "tone": "neutral", "length": "short", "noise": "", "identifiers": "none", "boundary": "setting that won't save; could be account_settings"}
+{"id": "t0111", "aimed_category": "mfa_issue", "aimed_multi_intent": true, "tone": "neutral", "length": "medium", "noise": "", "identifiers": "employee email", "boundary": ""}
+{"id": "t0112", "aimed_category": "account_settings", "aimed_multi_intent": false, "tone": "polite", "length": "short", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0113", "aimed_category": "sso_setup", "aimed_multi_intent": false, "tone": "technical", "length": "short", "noise": "", "identifiers": "error code", "boundary": ""}
+{"id": "t0114", "aimed_category": "login_issue", "aimed_multi_intent": false, "tone": "confused", "length": "short", "noise": "", "identifiers": "old + new email", "boundary": ""}
+{"id": "t0115", "aimed_category": "mfa_issue", "aimed_multi_intent": false, "tone": "calm", "length": "short", "noise": "", "identifiers": "none", "boundary": "minor bug in the 2FA flow; could be bug_report"}
+{"id": "t0116", "aimed_category": "mfa_issue", "aimed_multi_intent": false, "tone": "nervous", "length": "short", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0117", "aimed_category": "sso_setup", "aimed_multi_intent": false, "tone": "neutral", "length": "short", "noise": "", "identifiers": "org ID", "boundary": "SSO link disappeared; could be bug_report"}
+{"id": "t0118", "aimed_category": "account_settings", "aimed_multi_intent": false, "tone": "neutral", "length": "very short", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0119", "aimed_category": "sso_setup", "aimed_multi_intent": false, "tone": "professional", "length": "short", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0120", "aimed_category": "login_issue", "aimed_multi_intent": false, "tone": "worried", "length": "short", "noise": "", "identifiers": "email", "boundary": "suspended account may be payment_failure"}

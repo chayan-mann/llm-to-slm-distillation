@@ -1,0 +1,96 @@
+{"id": "t1021", "aimed_category": "login_issue", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1022", "aimed_category": "login_issue", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": "emailed login code missing; could be email_delivery"}
+{"id": "t1023", "aimed_category": "login_issue", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1024", "aimed_category": "login_issue", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1025", "aimed_category": "login_issue", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1026", "aimed_category": "login_issue", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": "reset link opens the mobile app; could be mobile_app_issue"}
+{"id": "t1027", "aimed_category": "login_issue", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1028", "aimed_category": "login_issue", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": "remember-me broken; could be bug_report"}
+{"id": "t1029", "aimed_category": "login_issue", "aimed_multi_intent": true, "tone": "varied", "noise": "", "identifiers": "", "boundary": "disabled after the trial ended; could be trial_extension"}
+{"id": "t1030", "aimed_category": "login_issue", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": "strange workspace on login; could be compromised_account"}
+{"id": "t1031", "aimed_category": "login_issue", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1032", "aimed_category": "mfa_issue", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1033", "aimed_category": "mfa_issue", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1034", "aimed_category": "mfa_issue", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1035", "aimed_category": "mfa_issue", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1036", "aimed_category": "mfa_issue", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1037", "aimed_category": "mfa_issue", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1038", "aimed_category": "mfa_issue", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1039", "aimed_category": "mfa_issue", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1040", "aimed_category": "mfa_issue", "aimed_multi_intent": true, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1041", "aimed_category": "mfa_issue", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1042", "aimed_category": "mfa_issue", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1043", "aimed_category": "mfa_issue", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1044", "aimed_category": "mfa_issue", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": "2FA prompt repeats only in the app; could be mobile_app_issue"}
+{"id": "t1045", "aimed_category": "mfa_issue", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": "reset for a departed employee; could be user_management"}
+{"id": "t1046", "aimed_category": "mfa_issue", "aimed_multi_intent": true, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1047", "aimed_category": "mfa_issue", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1048", "aimed_category": "mfa_issue", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1049", "aimed_category": "mfa_issue", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1050", "aimed_category": "sso_setup", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1051", "aimed_category": "sso_setup", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1052", "aimed_category": "sso_setup", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1053", "aimed_category": "sso_setup", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1054", "aimed_category": "sso_setup", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1055", "aimed_category": "sso_setup", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1056", "aimed_category": "sso_setup", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1057", "aimed_category": "sso_setup", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": "API tokens broke after SSO; could be api_support"}
+{"id": "t1058", "aimed_category": "sso_setup", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1059", "aimed_category": "sso_setup", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1060", "aimed_category": "sso_setup", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1061", "aimed_category": "sso_setup", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1062", "aimed_category": "sso_setup", "aimed_multi_intent": true, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1063", "aimed_category": "sso_setup", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1064", "aimed_category": "sso_setup", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1065", "aimed_category": "sso_setup", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1066", "aimed_category": "sso_setup", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1067", "aimed_category": "sso_setup", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1068", "aimed_category": "account_settings", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1069", "aimed_category": "account_settings", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1070", "aimed_category": "account_settings", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1071", "aimed_category": "account_settings", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1072", "aimed_category": "account_settings", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1073", "aimed_category": "account_settings", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1074", "aimed_category": "account_settings", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1075", "aimed_category": "account_settings", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1076", "aimed_category": "account_settings", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": "revoking connected apps; could be security-related"}
+{"id": "t1077", "aimed_category": "account_settings", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1078", "aimed_category": "account_settings", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1079", "aimed_category": "account_settings", "aimed_multi_intent": true, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1080", "aimed_category": "account_settings", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1081", "aimed_category": "account_settings", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1082", "aimed_category": "account_settings", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1083", "aimed_category": "user_management", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1084", "aimed_category": "user_management", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1085", "aimed_category": "user_management", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1086", "aimed_category": "user_management", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1087", "aimed_category": "user_management", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1088", "aimed_category": "user_management", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1089", "aimed_category": "user_management", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1090", "aimed_category": "user_management", "aimed_multi_intent": true, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1091", "aimed_category": "user_management", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1092", "aimed_category": "user_management", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1093", "aimed_category": "user_management", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1094", "aimed_category": "account_closure", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1095", "aimed_category": "account_closure", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1096", "aimed_category": "account_closure", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1097", "aimed_category": "account_closure", "aimed_multi_intent": true, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1098", "aimed_category": "account_closure", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1099", "aimed_category": "account_closure", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1100", "aimed_category": "account_closure", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1101", "aimed_category": "account_closure", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1102", "aimed_category": "account_closure", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1103", "aimed_category": "account_closure", "aimed_multi_intent": true, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1104", "aimed_category": "account_closure", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1105", "aimed_category": "account_closure", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": "restore after accidental deletion"}
+{"id": "t1106", "aimed_category": "account_closure", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": "deletion certificate; could be privacy_compliance"}
+{"id": "t1107", "aimed_category": "account_closure", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1108", "aimed_category": "account_closure", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1109", "aimed_category": "account_closure", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1110", "aimed_category": "account_closure", "aimed_multi_intent": true, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1111", "aimed_category": "account_closure", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1112", "aimed_category": "account_closure", "aimed_multi_intent": true, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1113", "aimed_category": "account_closure", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": "can't confirm deletion without a password; could be login_issue"}
+{"id": "t1114", "aimed_category": "account_closure", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1115", "aimed_category": "account_closure", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1116", "aimed_category": "account_closure", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}

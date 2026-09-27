@@ -1,0 +1,100 @@
+{"id": "t0721", "aimed_category": "sales_inquiry", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t0722", "aimed_category": "sales_inquiry", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t0723", "aimed_category": "sales_inquiry", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t0724", "aimed_category": "sales_inquiry", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t0725", "aimed_category": "sales_inquiry", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t0726", "aimed_category": "sales_inquiry", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t0727", "aimed_category": "sales_inquiry", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t0728", "aimed_category": "sales_inquiry", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t0729", "aimed_category": "sales_inquiry", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t0730", "aimed_category": "sales_inquiry", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t0731", "aimed_category": "sales_inquiry", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t0732", "aimed_category": "sales_inquiry", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t0733", "aimed_category": "sales_inquiry", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t0734", "aimed_category": "sales_inquiry", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t0735", "aimed_category": "sales_inquiry", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t0736", "aimed_category": "sales_inquiry", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t0737", "aimed_category": "sales_inquiry", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t0738", "aimed_category": "sales_inquiry", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t0739", "aimed_category": "sales_inquiry", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": "existing customer buying an add-on; could be plan_change"}
+{"id": "t0740", "aimed_category": "sales_inquiry", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t0741", "aimed_category": "sales_inquiry", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t0742", "aimed_category": "sales_inquiry", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t0743", "aimed_category": "sales_inquiry", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t0744", "aimed_category": "sales_inquiry", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t0745", "aimed_category": "sales_inquiry", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t0746", "aimed_category": "sales_inquiry", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t0747", "aimed_category": "sales_inquiry", "aimed_multi_intent": true, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t0748", "aimed_category": "sales_inquiry", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t0749", "aimed_category": "sales_inquiry", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": "payment methods for a prospect; could be payment_failure"}
+{"id": "t0750", "aimed_category": "sales_inquiry", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t0751", "aimed_category": "sales_inquiry", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t0752", "aimed_category": "sales_inquiry", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t0753", "aimed_category": "sales_inquiry", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t0754", "aimed_category": "sales_inquiry", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t0755", "aimed_category": "sales_inquiry", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t0756", "aimed_category": "sales_inquiry", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t0757", "aimed_category": "sales_inquiry", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t0758", "aimed_category": "sales_inquiry", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t0759", "aimed_category": "sales_inquiry", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t0760", "aimed_category": "sales_inquiry", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t0761", "aimed_category": "sales_inquiry", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t0762", "aimed_category": "sales_inquiry", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t0763", "aimed_category": "sales_inquiry", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t0764", "aimed_category": "sales_inquiry", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t0765", "aimed_category": "sales_inquiry", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t0766", "aimed_category": "out_of_scope", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t0767", "aimed_category": "out_of_scope", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t0768", "aimed_category": "out_of_scope", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t0769", "aimed_category": "out_of_scope", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t0770", "aimed_category": "out_of_scope", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t0771", "aimed_category": "out_of_scope", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t0772", "aimed_category": "out_of_scope", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t0773", "aimed_category": "out_of_scope", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t0774", "aimed_category": "out_of_scope", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": "bounce message that looks like an email problem; could be email_delivery"}
+{"id": "t0775", "aimed_category": "out_of_scope", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t0776", "aimed_category": "out_of_scope", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t0777", "aimed_category": "out_of_scope", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t0778", "aimed_category": "out_of_scope", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t0779", "aimed_category": "out_of_scope", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t0780", "aimed_category": "out_of_scope", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t0781", "aimed_category": "out_of_scope", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t0782", "aimed_category": "out_of_scope", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t0783", "aimed_category": "out_of_scope", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t0784", "aimed_category": "out_of_scope", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": "phishing-style invoice from another company; its invoice number is not a reference"}
+{"id": "t0785", "aimed_category": "out_of_scope", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t0786", "aimed_category": "out_of_scope", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t0787", "aimed_category": "out_of_scope", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t0788", "aimed_category": "out_of_scope", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t0789", "aimed_category": "out_of_scope", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t0790", "aimed_category": "out_of_scope", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t0791", "aimed_category": "out_of_scope", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t0792", "aimed_category": "out_of_scope", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t0793", "aimed_category": "out_of_scope", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t0794", "aimed_category": "out_of_scope", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t0795", "aimed_category": "out_of_scope", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t0796", "aimed_category": "out_of_scope", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t0797", "aimed_category": "out_of_scope", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t0798", "aimed_category": "out_of_scope", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": "another company's auto-reply containing their ticket number"}
+{"id": "t0799", "aimed_category": "out_of_scope", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t0800", "aimed_category": "out_of_scope", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t0801", "aimed_category": "login_issue", "aimed_multi_intent": true, "tone": "varied", "noise": "", "identifiers": "", "boundary": "a colleague is blocked from logging in, which beats the pricing question"}
+{"id": "t0802", "aimed_category": "sales_inquiry", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t0803", "aimed_category": "sales_inquiry", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": "migration help inside a demo request; could be import_export"}
+{"id": "t0804", "aimed_category": "compromised_account", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": "reports phishing that impersonates us; could be out_of_scope"}
+{"id": "t0805", "aimed_category": "sales_inquiry", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t0806", "aimed_category": "sales_inquiry", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t0807", "aimed_category": "out_of_scope", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t0808", "aimed_category": "out_of_scope", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t0809", "aimed_category": "account_settings", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": "a bare UNSUBSCRIBE reply; could be out_of_scope"}
+{"id": "t0810", "aimed_category": "sales_inquiry", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t0811", "aimed_category": "sales_inquiry", "aimed_multi_intent": true, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t0812", "aimed_category": "out_of_scope", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t0813", "aimed_category": "sales_inquiry", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": "data residency question from a prospect; could be privacy_compliance"}
+{"id": "t0814", "aimed_category": "account_settings", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": "asks to be removed from a marketing list; could be out_of_scope"}
+{"id": "t0815", "aimed_category": "sales_inquiry", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t0816", "aimed_category": "sales_inquiry", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t0817", "aimed_category": "out_of_scope", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": "a prospect declining; could be sales_inquiry"}
+{"id": "t0818", "aimed_category": "out_of_scope", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t0819", "aimed_category": "sales_inquiry", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t0820", "aimed_category": "out_of_scope", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": "trademark complaint; not a support request"}

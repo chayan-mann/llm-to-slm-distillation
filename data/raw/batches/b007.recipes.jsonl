@@ -1,0 +1,100 @@
+{"id": "t0621", "aimed_category": "product_feedback", "aimed_multi_intent": false, "tone": "enthusiastic", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0622", "aimed_category": "product_feedback", "aimed_multi_intent": false, "tone": "brief praise", "noise": "lowercase", "identifiers": "none", "boundary": ""}
+{"id": "t0623", "aimed_category": "product_feedback", "aimed_multi_intent": false, "tone": "thoughtful", "noise": "letter format, signature", "identifiers": "none", "boundary": ""}
+{"id": "t0624", "aimed_category": "product_feedback", "aimed_multi_intent": false, "tone": "grateful", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0625", "aimed_category": "product_feedback", "aimed_multi_intent": false, "tone": "frustrated", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0626", "aimed_category": "product_feedback", "aimed_multi_intent": false, "tone": "balanced", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0627", "aimed_category": "product_feedback", "aimed_multi_intent": false, "tone": "nostalgic", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0628", "aimed_category": "product_feedback", "aimed_multi_intent": false, "tone": "appreciative", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0629", "aimed_category": "product_feedback", "aimed_multi_intent": false, "tone": "disappointed", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0630", "aimed_category": "product_feedback", "aimed_multi_intent": false, "tone": "lukewarm", "noise": "lowercase", "identifiers": "none", "boundary": ""}
+{"id": "t0631", "aimed_category": "product_feedback", "aimed_multi_intent": true, "tone": "positive", "noise": "", "identifiers": "none", "boundary": "feedback with a feature request inside; could be feature_request"}
+{"id": "t0632", "aimed_category": "product_feedback", "aimed_multi_intent": false, "tone": "constructive", "noise": "", "identifiers": "none", "boundary": "accessibility problems; could be bug_report"}
+{"id": "t0633", "aimed_category": "product_feedback", "aimed_multi_intent": false, "tone": "enthusiastic", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0634", "aimed_category": "product_feedback", "aimed_multi_intent": false, "tone": "constructive", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0635", "aimed_category": "product_feedback", "aimed_multi_intent": true, "tone": "unhappy", "noise": "", "identifiers": "none", "boundary": "conditional refund request; could be refund_request"}
+{"id": "t0636", "aimed_category": "product_feedback", "aimed_multi_intent": false, "tone": "pleased", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0637", "aimed_category": "product_feedback", "aimed_multi_intent": false, "tone": "reflective", "noise": "letter format, signature", "identifiers": "none", "boundary": ""}
+{"id": "t0638", "aimed_category": "product_feedback", "aimed_multi_intent": true, "tone": "positive", "noise": "", "identifiers": "none", "boundary": "praise plus a guest-permission question; could be user_management"}
+{"id": "t0639", "aimed_category": "product_feedback", "aimed_multi_intent": false, "tone": "irritated", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0640", "aimed_category": "product_feedback", "aimed_multi_intent": false, "tone": "critical", "noise": "", "identifiers": "none", "boundary": "general mobile feedback; could be mobile_app_issue"}
+{"id": "t0641", "aimed_category": "security_report", "aimed_multi_intent": false, "tone": "professional", "noise": "letter format, signature", "identifiers": "none", "boundary": ""}
+{"id": "t0642", "aimed_category": "security_report", "aimed_multi_intent": false, "tone": "technical", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0643", "aimed_category": "security_report", "aimed_multi_intent": false, "tone": "technical", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0644", "aimed_category": "security_report", "aimed_multi_intent": false, "tone": "polite", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0645", "aimed_category": "security_report", "aimed_multi_intent": false, "tone": "matter-of-fact", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0646", "aimed_category": "security_report", "aimed_multi_intent": false, "tone": "tentative", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0647", "aimed_category": "security_report", "aimed_multi_intent": false, "tone": "discreet", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0648", "aimed_category": "security_report", "aimed_multi_intent": false, "tone": "helpful", "noise": "", "identifiers": "request ID", "boundary": ""}
+{"id": "t0649", "aimed_category": "security_report", "aimed_multi_intent": false, "tone": "formal", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0650", "aimed_category": "security_report", "aimed_multi_intent": true, "tone": "professional", "noise": "numbered list", "identifiers": "none", "boundary": ""}
+{"id": "t0651", "aimed_category": "security_report", "aimed_multi_intent": false, "tone": "terse", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0652", "aimed_category": "security_report", "aimed_multi_intent": false, "tone": "helpful", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0653", "aimed_category": "security_report", "aimed_multi_intent": false, "tone": "matter-of-fact", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0654", "aimed_category": "security_report", "aimed_multi_intent": false, "tone": "unsure", "noise": "", "identifiers": "none", "boundary": "very low-severity finding from a student"}
+{"id": "t0655", "aimed_category": "security_report", "aimed_multi_intent": false, "tone": "serious", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0656", "aimed_category": "compromised_account", "aimed_multi_intent": true, "tone": "scared", "noise": "", "identifiers": "email", "boundary": ""}
+{"id": "t0657", "aimed_category": "compromised_account", "aimed_multi_intent": false, "tone": "alarmed", "noise": "no final punctuation", "identifiers": "none", "boundary": ""}
+{"id": "t0658", "aimed_category": "compromised_account", "aimed_multi_intent": false, "tone": "professional", "noise": "letter format, signature", "identifiers": "org ID + affected user's email", "boundary": ""}
+{"id": "t0659", "aimed_category": "compromised_account", "aimed_multi_intent": false, "tone": "concerned", "noise": "", "identifiers": "workspace subdomain + phishing domain", "boundary": ""}
+{"id": "t0660", "aimed_category": "compromised_account", "aimed_multi_intent": false, "tone": "alarmed", "noise": "double punctuation", "identifiers": "org ID", "boundary": ""}
+{"id": "t0661", "aimed_category": "compromised_account", "aimed_multi_intent": false, "tone": "worried", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0662", "aimed_category": "compromised_account", "aimed_multi_intent": true, "tone": "sheepish", "noise": "", "identifiers": "account ID", "boundary": ""}
+{"id": "t0663", "aimed_category": "compromised_account", "aimed_multi_intent": false, "tone": "panicked", "noise": "", "identifiers": "original email", "boundary": ""}
+{"id": "t0664", "aimed_category": "compromised_account", "aimed_multi_intent": false, "tone": "suspicious", "noise": "", "identifiers": "workspace ID", "boundary": "removed user still active; could be user_management"}
+{"id": "t0665", "aimed_category": "compromised_account", "aimed_multi_intent": false, "tone": "urgent", "noise": "", "identifiers": "org ID", "boundary": ""}
+{"id": "t0666", "aimed_category": "compromised_account", "aimed_multi_intent": false, "tone": "anxious", "noise": "", "identifiers": "username", "boundary": ""}
+{"id": "t0667", "aimed_category": "compromised_account", "aimed_multi_intent": false, "tone": "concerned", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0668", "aimed_category": "compromised_account", "aimed_multi_intent": true, "tone": "shaken", "noise": "", "identifiers": "email", "boundary": ""}
+{"id": "t0669", "aimed_category": "compromised_account", "aimed_multi_intent": false, "tone": "panicked", "noise": "lowercase", "identifiers": "none", "boundary": ""}
+{"id": "t0670", "aimed_category": "compromised_account", "aimed_multi_intent": false, "tone": "determined", "noise": "", "identifiers": "email", "boundary": ""}
+{"id": "t0671", "aimed_category": "privacy_compliance", "aimed_multi_intent": false, "tone": "formal", "noise": "", "identifiers": "email", "boundary": ""}
+{"id": "t0672", "aimed_category": "privacy_compliance", "aimed_multi_intent": false, "tone": "neutral", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0673", "aimed_category": "privacy_compliance", "aimed_multi_intent": false, "tone": "formal", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0674", "aimed_category": "privacy_compliance", "aimed_multi_intent": false, "tone": "formal", "noise": "", "identifiers": "email", "boundary": ""}
+{"id": "t0675", "aimed_category": "privacy_compliance", "aimed_multi_intent": false, "tone": "terse", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0676", "aimed_category": "privacy_compliance", "aimed_multi_intent": false, "tone": "formal", "noise": "letter format, numbered list, signature", "identifiers": "none", "boundary": "prospect doing vendor review; could be sales_inquiry"}
+{"id": "t0677", "aimed_category": "privacy_compliance", "aimed_multi_intent": false, "tone": "neutral", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0678", "aimed_category": "privacy_compliance", "aimed_multi_intent": false, "tone": "firm", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0679", "aimed_category": "privacy_compliance", "aimed_multi_intent": false, "tone": "professional", "noise": "", "identifiers": "employee email + workspace ID", "boundary": ""}
+{"id": "t0680", "aimed_category": "privacy_compliance", "aimed_multi_intent": false, "tone": "careful", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0681", "aimed_category": "privacy_compliance", "aimed_multi_intent": false, "tone": "terse", "noise": "", "identifiers": "email", "boundary": ""}
+{"id": "t0682", "aimed_category": "privacy_compliance", "aimed_multi_intent": false, "tone": "firm", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0683", "aimed_category": "privacy_compliance", "aimed_multi_intent": true, "tone": "professional", "noise": "", "identifiers": "org ID", "boundary": ""}
+{"id": "t0684", "aimed_category": "privacy_compliance", "aimed_multi_intent": false, "tone": "formal", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0685", "aimed_category": "privacy_compliance", "aimed_multi_intent": false, "tone": "neutral", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0686", "aimed_category": "privacy_compliance", "aimed_multi_intent": false, "tone": "professional", "noise": "", "identifiers": "org ID", "boundary": ""}
+{"id": "t0687", "aimed_category": "privacy_compliance", "aimed_multi_intent": false, "tone": "terse", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0688", "aimed_category": "privacy_compliance", "aimed_multi_intent": false, "tone": "firm", "noise": "", "identifiers": "earlier ticket number", "boundary": ""}
+{"id": "t0689", "aimed_category": "security_report", "aimed_multi_intent": false, "tone": "disappointed", "noise": "", "identifiers": "none", "boundary": "follow-up on an unanswered report; could be product_feedback"}
+{"id": "t0690", "aimed_category": "product_feedback", "aimed_multi_intent": true, "tone": "positive", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0691", "aimed_category": "product_feedback", "aimed_multi_intent": true, "tone": "positive", "noise": "", "identifiers": "none", "boundary": "the actionable request is plan_change; primary is debatable"}
+{"id": "t0692", "aimed_category": "product_feedback", "aimed_multi_intent": false, "tone": "frustrated", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0693", "aimed_category": "product_feedback", "aimed_multi_intent": false, "tone": "nostalgic", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0694", "aimed_category": "security_report", "aimed_multi_intent": false, "tone": "technical", "noise": "HTML payload in text", "identifiers": "none", "boundary": ""}
+{"id": "t0695", "aimed_category": "security_report", "aimed_multi_intent": false, "tone": "businesslike", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0696", "aimed_category": "compromised_account", "aimed_multi_intent": false, "tone": "alarmed", "noise": "", "identifiers": "account ID", "boundary": ""}
+{"id": "t0697", "aimed_category": "compromised_account", "aimed_multi_intent": false, "tone": "panicked", "noise": "caps for emphasis", "identifiers": "email", "boundary": ""}
+{"id": "t0698", "aimed_category": "privacy_compliance", "aimed_multi_intent": false, "tone": "professional", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0699", "aimed_category": "privacy_compliance", "aimed_multi_intent": false, "tone": "terse", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0700", "aimed_category": "privacy_compliance", "aimed_multi_intent": true, "tone": "professional", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0701", "aimed_category": "product_feedback", "aimed_multi_intent": false, "tone": "positive", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0702", "aimed_category": "product_feedback", "aimed_multi_intent": false, "tone": "critical", "noise": "", "identifiers": "none", "boundary": "complaint about a past outage; not service_outage"}
+{"id": "t0703", "aimed_category": "cancellation", "aimed_multi_intent": false, "tone": "resigned", "noise": "", "identifiers": "account ID", "boundary": "feedback is background; the action is cancelling"}
+{"id": "t0704", "aimed_category": "security_report", "aimed_multi_intent": false, "tone": "concerned", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0705", "aimed_category": "compromised_account", "aimed_multi_intent": false, "tone": "worried", "noise": "", "identifiers": "email", "boundary": "possible access via a shared computer; could be account_settings"}
+{"id": "t0706", "aimed_category": "compromised_account", "aimed_multi_intent": true, "tone": "angry", "noise": "", "identifiers": "account ID", "boundary": ""}
+{"id": "t0707", "aimed_category": "privacy_compliance", "aimed_multi_intent": false, "tone": "formal", "noise": "", "identifiers": "deceased user's email", "boundary": "data access + deletion for a deceased user; could be account_closure"}
+{"id": "t0708", "aimed_category": "privacy_compliance", "aimed_multi_intent": false, "tone": "professional", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0709", "aimed_category": "product_feedback", "aimed_multi_intent": false, "tone": "grateful", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0710", "aimed_category": "security_report", "aimed_multi_intent": true, "tone": "helpful", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0711", "aimed_category": "product_feedback", "aimed_multi_intent": false, "tone": "annoyed", "noise": "", "identifiers": "none", "boundary": "asks how to turn a feature off; could be account_settings"}
+{"id": "t0712", "aimed_category": "compromised_account", "aimed_multi_intent": false, "tone": "professional", "noise": "numbered list", "identifiers": "org ID + contact email", "boundary": ""}
+{"id": "t0713", "aimed_category": "privacy_compliance", "aimed_multi_intent": false, "tone": "formal", "noise": "", "identifiers": "email", "boundary": ""}
+{"id": "t0714", "aimed_category": "product_feedback", "aimed_multi_intent": false, "tone": "frustrated", "noise": "", "identifiers": "none", "boundary": "support chat closing; could be bug_report"}
+{"id": "t0715", "aimed_category": "compromised_account", "aimed_multi_intent": false, "tone": "worried", "noise": "", "identifiers": "email", "boundary": "asks about a possible company breach; could be security_report or privacy_compliance"}
+{"id": "t0716", "aimed_category": "privacy_compliance", "aimed_multi_intent": false, "tone": "formal", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0717", "aimed_category": "privacy_compliance", "aimed_multi_intent": false, "tone": "professional", "noise": "", "identifiers": "org ID", "boundary": ""}
+{"id": "t0718", "aimed_category": "security_report", "aimed_multi_intent": false, "tone": "technical", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0719", "aimed_category": "account_settings", "aimed_multi_intent": false, "tone": "positive", "noise": "", "identifiers": "none", "boundary": "praise plus a request to stop marketing email; could be product_feedback"}
+{"id": "t0720", "aimed_category": "how_to_question", "aimed_multi_intent": false, "tone": "amused", "noise": "", "identifiers": "none", "boundary": ""}

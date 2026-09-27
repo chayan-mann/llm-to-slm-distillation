@@ -1,0 +1,100 @@
+{"id": "t0521", "aimed_category": "mobile_app_issue", "aimed_multi_intent": false, "tone": "practical", "noise": "letter format, signature", "identifiers": "workspace subdomain", "boundary": ""}
+{"id": "t0522", "aimed_category": "mobile_app_issue", "aimed_multi_intent": false, "tone": "terse", "noise": "lowercase, missing apostrophe", "identifiers": "none", "boundary": ""}
+{"id": "t0523", "aimed_category": "mobile_app_issue", "aimed_multi_intent": false, "tone": "neutral", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0524", "aimed_category": "mobile_app_issue", "aimed_multi_intent": false, "tone": "frustrated", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0525", "aimed_category": "mobile_app_issue", "aimed_multi_intent": false, "tone": "weary", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0526", "aimed_category": "mobile_app_issue", "aimed_multi_intent": false, "tone": "curious", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0527", "aimed_category": "mobile_app_issue", "aimed_multi_intent": false, "tone": "precise", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0528", "aimed_category": "mobile_app_issue", "aimed_multi_intent": false, "tone": "curious", "noise": "", "identifiers": "none", "boundary": "asks whether an app exists; could be feature_request"}
+{"id": "t0529", "aimed_category": "mobile_app_issue", "aimed_multi_intent": false, "tone": "concerned", "noise": "", "identifiers": "account ID", "boundary": ""}
+{"id": "t0530", "aimed_category": "mobile_app_issue", "aimed_multi_intent": false, "tone": "matter-of-fact", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0531", "aimed_category": "mobile_app_issue", "aimed_multi_intent": false, "tone": "neutral", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0532", "aimed_category": "mobile_app_issue", "aimed_multi_intent": true, "tone": "friendly", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0533", "aimed_category": "mobile_app_issue", "aimed_multi_intent": false, "tone": "neutral", "noise": "", "identifiers": "none", "boundary": "biometric login in the app; could be login_issue"}
+{"id": "t0534", "aimed_category": "mobile_app_issue", "aimed_multi_intent": true, "tone": "friendly", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0535", "aimed_category": "mobile_app_issue", "aimed_multi_intent": false, "tone": "urgent", "noise": "", "identifiers": "error code + workspace ID", "boundary": "data lost on sync; could be data_sync_issue"}
+{"id": "t0536", "aimed_category": "mobile_app_issue", "aimed_multi_intent": false, "tone": "neutral", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0537", "aimed_category": "mobile_app_issue", "aimed_multi_intent": false, "tone": "pleading", "noise": "lowercase", "identifiers": "none", "boundary": ""}
+{"id": "t0538", "aimed_category": "mobile_app_issue", "aimed_multi_intent": false, "tone": "neutral", "noise": "", "identifiers": "none", "boundary": "SSO in the Android app only; could be sso_setup"}
+{"id": "t0539", "aimed_category": "mobile_app_issue", "aimed_multi_intent": false, "tone": "curious", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0540", "aimed_category": "feature_request", "aimed_multi_intent": false, "tone": "enthusiastic", "noise": "", "identifiers": "none", "boundary": "about a mobile platform; could be mobile_app_issue"}
+{"id": "t0541", "aimed_category": "email_delivery", "aimed_multi_intent": false, "tone": "concerned", "noise": "", "identifiers": "workspace subdomain", "boundary": ""}
+{"id": "t0542", "aimed_category": "email_delivery", "aimed_multi_intent": false, "tone": "technical", "noise": "lowercase", "identifiers": "none", "boundary": ""}
+{"id": "t0543", "aimed_category": "email_delivery", "aimed_multi_intent": false, "tone": "precise", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0544", "aimed_category": "email_delivery", "aimed_multi_intent": false, "tone": "professional", "noise": "letter format, signature", "identifiers": "workspace ID", "boundary": ""}
+{"id": "t0545", "aimed_category": "email_delivery", "aimed_multi_intent": false, "tone": "amused", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0546", "aimed_category": "email_delivery", "aimed_multi_intent": false, "tone": "neutral", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0547", "aimed_category": "email_delivery", "aimed_multi_intent": false, "tone": "technical", "noise": "", "identifiers": "SMTP code (not a reference)", "boundary": ""}
+{"id": "t0548", "aimed_category": "email_delivery", "aimed_multi_intent": false, "tone": "neutral", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0549", "aimed_category": "email_delivery", "aimed_multi_intent": false, "tone": "neutral", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0550", "aimed_category": "email_delivery", "aimed_multi_intent": false, "tone": "concerned", "noise": "", "identifiers": "workspace ID", "boundary": ""}
+{"id": "t0551", "aimed_category": "email_delivery", "aimed_multi_intent": false, "tone": "annoyed", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0552", "aimed_category": "email_delivery", "aimed_multi_intent": true, "tone": "friendly", "noise": "signature", "identifiers": "none", "boundary": ""}
+{"id": "t0553", "aimed_category": "email_delivery", "aimed_multi_intent": false, "tone": "concerned", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0554", "aimed_category": "email_delivery", "aimed_multi_intent": false, "tone": "confused", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0555", "aimed_category": "email_delivery", "aimed_multi_intent": false, "tone": "confused", "noise": "", "identifiers": "none", "boundary": "wrong link inside the email; could be bug_report"}
+{"id": "t0556", "aimed_category": "how_to_question", "aimed_multi_intent": false, "tone": "neutral", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0557", "aimed_category": "how_to_question", "aimed_multi_intent": false, "tone": "terse", "noise": "lowercase, no punctuation", "identifiers": "none", "boundary": ""}
+{"id": "t0558", "aimed_category": "how_to_question", "aimed_multi_intent": false, "tone": "warm", "noise": "letter format, signature", "identifiers": "none", "boundary": ""}
+{"id": "t0559", "aimed_category": "how_to_question", "aimed_multi_intent": false, "tone": "neutral", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0560", "aimed_category": "how_to_question", "aimed_multi_intent": false, "tone": "neutral", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0561", "aimed_category": "how_to_question", "aimed_multi_intent": false, "tone": "puzzled", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0562", "aimed_category": "how_to_question", "aimed_multi_intent": false, "tone": "neutral", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0563", "aimed_category": "how_to_question", "aimed_multi_intent": false, "tone": "polite", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0564", "aimed_category": "how_to_question", "aimed_multi_intent": false, "tone": "neutral", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0565", "aimed_category": "how_to_question", "aimed_multi_intent": false, "tone": "puzzled", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0566", "aimed_category": "how_to_question", "aimed_multi_intent": false, "tone": "casual", "noise": "lowercase", "identifiers": "none", "boundary": ""}
+{"id": "t0567", "aimed_category": "how_to_question", "aimed_multi_intent": false, "tone": "neutral", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0568", "aimed_category": "how_to_question", "aimed_multi_intent": false, "tone": "neutral", "noise": "", "identifiers": "workspace ID", "boundary": ""}
+{"id": "t0569", "aimed_category": "how_to_question", "aimed_multi_intent": false, "tone": "neutral", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0570", "aimed_category": "how_to_question", "aimed_multi_intent": false, "tone": "neutral", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0571", "aimed_category": "how_to_question", "aimed_multi_intent": false, "tone": "neutral", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0572", "aimed_category": "how_to_question", "aimed_multi_intent": false, "tone": "cautious", "noise": "lowercase", "identifiers": "none", "boundary": ""}
+{"id": "t0573", "aimed_category": "how_to_question", "aimed_multi_intent": false, "tone": "practical", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0574", "aimed_category": "user_management", "aimed_multi_intent": true, "tone": "friendly", "noise": "", "identifiers": "none", "boundary": "how-to about inviting people → user_management by the area rule"}
+{"id": "t0575", "aimed_category": "how_to_question", "aimed_multi_intent": false, "tone": "professional", "noise": "letter format, signature", "identifiers": "none", "boundary": ""}
+{"id": "t0576", "aimed_category": "feature_request", "aimed_multi_intent": false, "tone": "pleading", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0577", "aimed_category": "feature_request", "aimed_multi_intent": false, "tone": "terse", "noise": "lowercase", "identifiers": "none", "boundary": ""}
+{"id": "t0578", "aimed_category": "feature_request", "aimed_multi_intent": false, "tone": "professional", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0579", "aimed_category": "feature_request", "aimed_multi_intent": false, "tone": "practical", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0580", "aimed_category": "feature_request", "aimed_multi_intent": false, "tone": "constructive", "noise": "letter format, signature", "identifiers": "none", "boundary": ""}
+{"id": "t0581", "aimed_category": "feature_request", "aimed_multi_intent": false, "tone": "casual", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0582", "aimed_category": "feature_request", "aimed_multi_intent": false, "tone": "technical", "noise": "", "identifiers": "none", "boundary": "an API feature; could be api_support"}
+{"id": "t0583", "aimed_category": "feature_request", "aimed_multi_intent": false, "tone": "practical", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0584", "aimed_category": "feature_request", "aimed_multi_intent": false, "tone": "casual", "noise": "lowercase, abbreviation", "identifiers": "none", "boundary": ""}
+{"id": "t0585", "aimed_category": "feature_request", "aimed_multi_intent": false, "tone": "business-focused", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0586", "aimed_category": "feature_request", "aimed_multi_intent": true, "tone": "friendly", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0587", "aimed_category": "feature_request", "aimed_multi_intent": false, "tone": "curious", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0588", "aimed_category": "feature_request", "aimed_multi_intent": false, "tone": "neutral", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0589", "aimed_category": "feature_request", "aimed_multi_intent": false, "tone": "appreciative", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0590", "aimed_category": "feature_request", "aimed_multi_intent": false, "tone": "pleading", "noise": "", "identifiers": "none", "boundary": "feature on a lower plan; could be sales_inquiry"}
+{"id": "t0591", "aimed_category": "feature_request", "aimed_multi_intent": false, "tone": "polite", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0592", "aimed_category": "feature_request", "aimed_multi_intent": false, "tone": "constructive", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0593", "aimed_category": "feature_request", "aimed_multi_intent": true, "tone": "casual", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0594", "aimed_category": "email_delivery", "aimed_multi_intent": true, "tone": "worried", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0595", "aimed_category": "how_to_question", "aimed_multi_intent": true, "tone": "neutral", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0596", "aimed_category": "user_management", "aimed_multi_intent": false, "tone": "neutral", "noise": "", "identifiers": "none", "boundary": "how-to about guest access → user_management by the area rule"}
+{"id": "t0597", "aimed_category": "mobile_app_issue", "aimed_multi_intent": false, "tone": "mildly annoyed", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0598", "aimed_category": "email_delivery", "aimed_multi_intent": false, "tone": "puzzled", "noise": "", "identifiers": "account ID", "boundary": ""}
+{"id": "t0599", "aimed_category": "how_to_question", "aimed_multi_intent": false, "tone": "neutral", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0600", "aimed_category": "feature_request", "aimed_multi_intent": false, "tone": "neutral", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0601", "aimed_category": "mobile_app_issue", "aimed_multi_intent": false, "tone": "concerned", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0602", "aimed_category": "email_delivery", "aimed_multi_intent": false, "tone": "neutral", "noise": "", "identifiers": "none", "boundary": "wrong time zone in emails; could be bug_report"}
+{"id": "t0603", "aimed_category": "how_to_question", "aimed_multi_intent": false, "tone": "neutral", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0604", "aimed_category": "feature_request", "aimed_multi_intent": false, "tone": "practical", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0605", "aimed_category": "mobile_app_issue", "aimed_multi_intent": false, "tone": "frustrated", "noise": "", "identifiers": "none", "boundary": "login loop only in the app; could be login_issue"}
+{"id": "t0606", "aimed_category": "email_delivery", "aimed_multi_intent": false, "tone": "puzzled", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0607", "aimed_category": "how_to_question", "aimed_multi_intent": false, "tone": "curious", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0608", "aimed_category": "feature_request", "aimed_multi_intent": false, "tone": "neutral", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0609", "aimed_category": "how_to_question", "aimed_multi_intent": false, "tone": "neutral", "noise": "", "identifiers": "none", "boundary": "notification setting; could be account_settings"}
+{"id": "t0610", "aimed_category": "mobile_app_issue", "aimed_multi_intent": false, "tone": "practical", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0611", "aimed_category": "feature_request", "aimed_multi_intent": false, "tone": "pleading", "noise": "", "identifiers": "none", "boundary": "SSO on a lower plan; could be sales_inquiry or sso_setup"}
+{"id": "t0612", "aimed_category": "how_to_question", "aimed_multi_intent": false, "tone": "terse", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0613", "aimed_category": "email_delivery", "aimed_multi_intent": false, "tone": "technical", "noise": "", "identifiers": "org ID", "boundary": ""}
+{"id": "t0614", "aimed_category": "how_to_question", "aimed_multi_intent": false, "tone": "practical", "noise": "", "identifiers": "none", "boundary": "conditional feature request; could be feature_request"}
+{"id": "t0615", "aimed_category": "mobile_app_issue", "aimed_multi_intent": false, "tone": "curious", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0616", "aimed_category": "feature_request", "aimed_multi_intent": false, "tone": "professional", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0617", "aimed_category": "how_to_question", "aimed_multi_intent": false, "tone": "neutral", "noise": "", "identifiers": "none", "boundary": "sharing with outsiders; could be user_management"}
+{"id": "t0618", "aimed_category": "email_delivery", "aimed_multi_intent": false, "tone": "image-conscious", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0619", "aimed_category": "mobile_app_issue", "aimed_multi_intent": false, "tone": "mildly annoyed", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0620", "aimed_category": "account_settings", "aimed_multi_intent": false, "tone": "neutral", "noise": "", "identifiers": "none", "boundary": "notification preferences how-to → account_settings by the area rule"}

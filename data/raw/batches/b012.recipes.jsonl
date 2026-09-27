@@ -1,0 +1,96 @@
+{"id": "t1117", "aimed_category": "unexpected_charge", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1118", "aimed_category": "unexpected_charge", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1119", "aimed_category": "unexpected_charge", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1120", "aimed_category": "unexpected_charge", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1121", "aimed_category": "unexpected_charge", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1122", "aimed_category": "unexpected_charge", "aimed_multi_intent": true, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1123", "aimed_category": "unexpected_charge", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1124", "aimed_category": "unexpected_charge", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1125", "aimed_category": "unexpected_charge", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1126", "aimed_category": "unexpected_charge", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1127", "aimed_category": "unexpected_charge", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1128", "aimed_category": "unexpected_charge", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1129", "aimed_category": "unexpected_charge", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1130", "aimed_category": "refund_request", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1131", "aimed_category": "refund_request", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1132", "aimed_category": "refund_request", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1133", "aimed_category": "refund_request", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1134", "aimed_category": "refund_request", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1135", "aimed_category": "refund_request", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1136", "aimed_category": "refund_request", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1137", "aimed_category": "refund_request", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": "credit for a bad month; could be product_feedback"}
+{"id": "t1138", "aimed_category": "refund_request", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1139", "aimed_category": "refund_request", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1140", "aimed_category": "refund_request", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": "wants the student price; could be plan_change"}
+{"id": "t1141", "aimed_category": "refund_request", "aimed_multi_intent": true, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1142", "aimed_category": "refund_request", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1143", "aimed_category": "refund_request", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1144", "aimed_category": "refund_request", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1145", "aimed_category": "unexpected_charge", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": "billed annually despite choosing monthly; says refund but disputes the charge"}
+{"id": "t1146", "aimed_category": "refund_request", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1147", "aimed_category": "refund_request", "aimed_multi_intent": true, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1148", "aimed_category": "plan_change", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1149", "aimed_category": "plan_change", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1150", "aimed_category": "plan_change", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1151", "aimed_category": "plan_change", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1152", "aimed_category": "plan_change", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1153", "aimed_category": "plan_change", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": "features still locked after upgrade; could be bug_report"}
+{"id": "t1154", "aimed_category": "plan_change", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1155", "aimed_category": "plan_change", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1156", "aimed_category": "plan_change", "aimed_multi_intent": true, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1157", "aimed_category": "plan_change", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1158", "aimed_category": "plan_change", "aimed_multi_intent": true, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1159", "aimed_category": "plan_change", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1160", "aimed_category": "plan_change", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1161", "aimed_category": "plan_change", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1162", "aimed_category": "plan_change", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1163", "aimed_category": "plan_change", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": "worried about a double charge; could be unexpected_charge"}
+{"id": "t1164", "aimed_category": "cancellation", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1165", "aimed_category": "cancellation", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1166", "aimed_category": "cancellation", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": "App Store billing"}
+{"id": "t1167", "aimed_category": "cancellation", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1168", "aimed_category": "cancellation", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1169", "aimed_category": "cancellation", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1170", "aimed_category": "cancellation", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1171", "aimed_category": "cancellation", "aimed_multi_intent": true, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1172", "aimed_category": "cancellation", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1173", "aimed_category": "cancellation", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": "asks about getting money back; could be refund_request"}
+{"id": "t1174", "aimed_category": "cancellation", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": "cancelling at the end of a trial; could be trial_extension"}
+{"id": "t1175", "aimed_category": "cancellation", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1176", "aimed_category": "cancellation", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1177", "aimed_category": "cancellation", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1178", "aimed_category": "cancellation", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1179", "aimed_category": "payment_failure", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1180", "aimed_category": "payment_failure", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1181", "aimed_category": "payment_failure", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1182", "aimed_category": "payment_failure", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1183", "aimed_category": "payment_failure", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": "switching to invoice billing; could be invoice_request"}
+{"id": "t1184", "aimed_category": "payment_failure", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1185", "aimed_category": "payment_failure", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1186", "aimed_category": "payment_failure", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1187", "aimed_category": "payment_failure", "aimed_multi_intent": true, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1188", "aimed_category": "payment_failure", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1189", "aimed_category": "payment_failure", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1190", "aimed_category": "payment_failure", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1191", "aimed_category": "payment_failure", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": "legal name mismatch; could be account_settings"}
+{"id": "t1192", "aimed_category": "payment_failure", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1193", "aimed_category": "payment_failure", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1194", "aimed_category": "payment_failure", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1195", "aimed_category": "payment_failure", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1196", "aimed_category": "invoice_request", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1197", "aimed_category": "invoice_request", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1198", "aimed_category": "invoice_request", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1199", "aimed_category": "invoice_request", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": "pro-forma before buying; could be plan_change or sales_inquiry"}
+{"id": "t1200", "aimed_category": "invoice_request", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1201", "aimed_category": "invoice_request", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1202", "aimed_category": "invoice_request", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1203", "aimed_category": "invoice_request", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1204", "aimed_category": "invoice_request", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1205", "aimed_category": "invoice_request", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1206", "aimed_category": "invoice_request", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1207", "aimed_category": "invoice_request", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1208", "aimed_category": "invoice_request", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1209", "aimed_category": "invoice_request", "aimed_multi_intent": true, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1210", "aimed_category": "invoice_request", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1211", "aimed_category": "invoice_request", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1212", "aimed_category": "invoice_request", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}

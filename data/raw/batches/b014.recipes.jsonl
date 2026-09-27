@@ -1,0 +1,96 @@
+{"id": "t1309", "aimed_category": "integration_issue", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1310", "aimed_category": "integration_issue", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1311", "aimed_category": "integration_issue", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1312", "aimed_category": "integration_issue", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1313", "aimed_category": "integration_issue", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1314", "aimed_category": "integration_issue", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1315", "aimed_category": "integration_issue", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1316", "aimed_category": "integration_issue", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1317", "aimed_category": "integration_issue", "aimed_multi_intent": true, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1318", "aimed_category": "integration_issue", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": "iCal feed stale; could be data_sync_issue"}
+{"id": "t1319", "aimed_category": "integration_issue", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1320", "aimed_category": "integration_issue", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1321", "aimed_category": "integration_issue", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1322", "aimed_category": "integration_issue", "aimed_multi_intent": true, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1323", "aimed_category": "integration_issue", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1324", "aimed_category": "integration_issue", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1325", "aimed_category": "integration_issue", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": "asks whether two-way sync exists; could be feature_request"}
+{"id": "t1326", "aimed_category": "api_support", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1327", "aimed_category": "api_support", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1328", "aimed_category": "api_support", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1329", "aimed_category": "api_support", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1330", "aimed_category": "api_support", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1331", "aimed_category": "api_support", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1332", "aimed_category": "api_support", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1333", "aimed_category": "api_support", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": "asks for an SDK; could be feature_request"}
+{"id": "t1334", "aimed_category": "api_support", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1335", "aimed_category": "api_support", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1336", "aimed_category": "api_support", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1337", "aimed_category": "api_support", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1338", "aimed_category": "api_support", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1339", "aimed_category": "api_support", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": "pre-build architecture question"}
+{"id": "t1340", "aimed_category": "api_support", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1341", "aimed_category": "import_export", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1342", "aimed_category": "import_export", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1343", "aimed_category": "import_export", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1344", "aimed_category": "import_export", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1345", "aimed_category": "import_export", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": "undo an import"}
+{"id": "t1346", "aimed_category": "import_export", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1347", "aimed_category": "import_export", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1348", "aimed_category": "import_export", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1349", "aimed_category": "import_export", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1350", "aimed_category": "import_export", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": "scheduled export via API; could be api_support"}
+{"id": "t1351", "aimed_category": "import_export", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1352", "aimed_category": "import_export", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1353", "aimed_category": "import_export", "aimed_multi_intent": true, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1354", "aimed_category": "import_export", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1355", "aimed_category": "import_export", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": "PDF export truncates; could be bug_report"}
+{"id": "t1356", "aimed_category": "import_export", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1357", "aimed_category": "mobile_app_issue", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1358", "aimed_category": "mobile_app_issue", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1359", "aimed_category": "mobile_app_issue", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1360", "aimed_category": "mobile_app_issue", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1361", "aimed_category": "mobile_app_issue", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1362", "aimed_category": "mobile_app_issue", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1363", "aimed_category": "mobile_app_issue", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1364", "aimed_category": "mobile_app_issue", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1365", "aimed_category": "mobile_app_issue", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": "logged out after app updates; could be login_issue"}
+{"id": "t1366", "aimed_category": "mobile_app_issue", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1367", "aimed_category": "mobile_app_issue", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1368", "aimed_category": "mobile_app_issue", "aimed_multi_intent": true, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1369", "aimed_category": "mobile_app_issue", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": "tablet layout; could be feature_request"}
+{"id": "t1370", "aimed_category": "mobile_app_issue", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1371", "aimed_category": "mobile_app_issue", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1372", "aimed_category": "mobile_app_issue", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": "rating prompts; could be product_feedback"}
+{"id": "t1373", "aimed_category": "mobile_app_issue", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1374", "aimed_category": "mobile_app_issue", "aimed_multi_intent": true, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1375", "aimed_category": "email_delivery", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1376", "aimed_category": "email_delivery", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1377", "aimed_category": "email_delivery", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1378", "aimed_category": "email_delivery", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": "wrong name in email content; could be bug_report"}
+{"id": "t1379", "aimed_category": "email_delivery", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1380", "aimed_category": "email_delivery", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1381", "aimed_category": "email_delivery", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": "broken link in emails; could be bug_report"}
+{"id": "t1382", "aimed_category": "email_delivery", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1383", "aimed_category": "email_delivery", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1384", "aimed_category": "email_delivery", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1385", "aimed_category": "email_delivery", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1386", "aimed_category": "email_delivery", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1387", "aimed_category": "email_delivery", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1388", "aimed_category": "email_delivery", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1389", "aimed_category": "email_delivery", "aimed_multi_intent": true, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1390", "aimed_category": "email_delivery", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1391", "aimed_category": "email_delivery", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1392", "aimed_category": "email_delivery", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1393", "aimed_category": "email_delivery", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": "asks for richer email content; could be feature_request"}
+{"id": "t1394", "aimed_category": "email_delivery", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1395", "aimed_category": "email_delivery", "aimed_multi_intent": true, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1396", "aimed_category": "how_to_question", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1397", "aimed_category": "how_to_question", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1398", "aimed_category": "how_to_question", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1399", "aimed_category": "how_to_question", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1400", "aimed_category": "how_to_question", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1401", "aimed_category": "how_to_question", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1402", "aimed_category": "how_to_question", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1403", "aimed_category": "how_to_question", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}
+{"id": "t1404", "aimed_category": "how_to_question", "aimed_multi_intent": false, "tone": "varied", "noise": "", "identifiers": "", "boundary": ""}

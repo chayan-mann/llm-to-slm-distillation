@@ -1,0 +1,100 @@
+{"id": "t0121", "aimed_category": "user_management", "aimed_multi_intent": false, "tone": "concerned", "length": "medium", "noise": "", "identifiers": "workspace ID", "boundary": "invite emails not arriving; could be email_delivery"}
+{"id": "t0122", "aimed_category": "user_management", "aimed_multi_intent": false, "tone": "neutral", "length": "short", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0123", "aimed_category": "user_management", "aimed_multi_intent": false, "tone": "professional", "length": "long", "noise": "", "identifiers": "colleague's email (not the account login)", "boundary": ""}
+{"id": "t0124", "aimed_category": "user_management", "aimed_multi_intent": false, "tone": "terse", "length": "very short", "noise": "lowercase", "identifiers": "none", "boundary": ""}
+{"id": "t0125", "aimed_category": "user_management", "aimed_multi_intent": false, "tone": "concerned", "length": "medium", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0126", "aimed_category": "user_management", "aimed_multi_intent": false, "tone": "neutral", "length": "short", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0127", "aimed_category": "user_management", "aimed_multi_intent": false, "tone": "exasperated", "length": "short", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0128", "aimed_category": "user_management", "aimed_multi_intent": false, "tone": "wry", "length": "medium", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0129", "aimed_category": "user_management", "aimed_multi_intent": false, "tone": "professional", "length": "short", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0130", "aimed_category": "user_management", "aimed_multi_intent": false, "tone": "neutral", "length": "short", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0131", "aimed_category": "user_management", "aimed_multi_intent": false, "tone": "neutral", "length": "short", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0132", "aimed_category": "user_management", "aimed_multi_intent": false, "tone": "worried", "length": "long", "noise": "", "identifiers": "ex-owner email + workspace subdomain", "boundary": ""}
+{"id": "t0133", "aimed_category": "user_management", "aimed_multi_intent": false, "tone": "polite", "length": "medium", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0134", "aimed_category": "user_management", "aimed_multi_intent": false, "tone": "puzzled", "length": "medium", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0135", "aimed_category": "user_management", "aimed_multi_intent": false, "tone": "embarrassed", "length": "medium", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0136", "aimed_category": "user_management", "aimed_multi_intent": false, "tone": "neutral", "length": "short", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0137", "aimed_category": "user_management", "aimed_multi_intent": false, "tone": "neutral", "length": "short", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0138", "aimed_category": "user_management", "aimed_multi_intent": false, "tone": "concerned", "length": "short", "noise": "", "identifiers": "org ID", "boundary": ""}
+{"id": "t0139", "aimed_category": "user_management", "aimed_multi_intent": true, "tone": "cost-conscious", "length": "medium", "noise": "", "identifiers": "workspace subdomain", "boundary": ""}
+{"id": "t0140", "aimed_category": "user_management", "aimed_multi_intent": false, "tone": "weary", "length": "short", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0141", "aimed_category": "user_management", "aimed_multi_intent": false, "tone": "neutral", "length": "medium", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0142", "aimed_category": "user_management", "aimed_multi_intent": false, "tone": "frustrated", "length": "medium", "noise": "", "identifiers": "none", "boundary": "CSV invite upload failing; could be import_export"}
+{"id": "t0143", "aimed_category": "user_management", "aimed_multi_intent": false, "tone": "panicked", "length": "short", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0144", "aimed_category": "user_management", "aimed_multi_intent": true, "tone": "neutral", "length": "medium", "noise": "", "identifiers": "account ID", "boundary": ""}
+{"id": "t0145", "aimed_category": "user_management", "aimed_multi_intent": false, "tone": "neutral", "length": "short", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0146", "aimed_category": "account_closure", "aimed_multi_intent": false, "tone": "polite", "length": "short", "noise": "", "identifiers": "email", "boundary": ""}
+{"id": "t0147", "aimed_category": "account_closure", "aimed_multi_intent": true, "tone": "neutral", "length": "medium", "noise": "", "identifiers": "workspace subdomain", "boundary": ""}
+{"id": "t0148", "aimed_category": "account_closure", "aimed_multi_intent": false, "tone": "cautious", "length": "medium", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0149", "aimed_category": "account_closure", "aimed_multi_intent": false, "tone": "grieving", "length": "medium", "noise": "", "identifiers": "email (deceased user's login)", "boundary": ""}
+{"id": "t0150", "aimed_category": "account_closure", "aimed_multi_intent": false, "tone": "frustrated", "length": "very short", "noise": "lowercase, double punctuation", "identifiers": "none", "boundary": ""}
+{"id": "t0151", "aimed_category": "account_closure", "aimed_multi_intent": false, "tone": "neutral", "length": "medium", "noise": "", "identifiers": "workspace ID", "boundary": ""}
+{"id": "t0152", "aimed_category": "account_closure", "aimed_multi_intent": false, "tone": "concerned", "length": "short", "noise": "", "identifiers": "email", "boundary": ""}
+{"id": "t0153", "aimed_category": "account_closure", "aimed_multi_intent": true, "tone": "irritated", "length": "short", "noise": "", "identifiers": "account ID", "boundary": ""}
+{"id": "t0154", "aimed_category": "account_closure", "aimed_multi_intent": true, "tone": "neutral", "length": "medium", "noise": "", "identifiers": "none", "boundary": "export comes first in the text; primary is debatable (import_export)"}
+{"id": "t0155", "aimed_category": "account_closure", "aimed_multi_intent": false, "tone": "neutral", "length": "short", "noise": "", "identifiers": "email of the account to delete", "boundary": ""}
+{"id": "t0156", "aimed_category": "account_closure", "aimed_multi_intent": false, "tone": "polite", "length": "short", "noise": "", "identifiers": "child's email", "boundary": ""}
+{"id": "t0157", "aimed_category": "account_closure", "aimed_multi_intent": false, "tone": "neutral", "length": "short", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0158", "aimed_category": "account_closure", "aimed_multi_intent": false, "tone": "casual", "length": "short", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0159", "aimed_category": "account_closure", "aimed_multi_intent": false, "tone": "panicked", "length": "medium", "noise": "double punctuation", "identifiers": "workspace subdomain", "boundary": "restore after accidental deletion; could be data_sync_issue"}
+{"id": "t0160", "aimed_category": "account_closure", "aimed_multi_intent": false, "tone": "calm", "length": "short", "noise": "", "identifiers": "email", "boundary": "privacy motive but no legal framing; not privacy_compliance"}
+{"id": "t0161", "aimed_category": "account_closure", "aimed_multi_intent": true, "tone": "formal", "length": "short", "noise": "numbered list", "identifiers": "org ID", "boundary": ""}
+{"id": "t0162", "aimed_category": "account_closure", "aimed_multi_intent": false, "tone": "neutral", "length": "short", "noise": "", "identifiers": "workspace subdomain", "boundary": ""}
+{"id": "t0163", "aimed_category": "account_closure", "aimed_multi_intent": false, "tone": "neutral", "length": "short", "noise": "", "identifiers": "email", "boundary": "can't log in, but the goal is deletion; could be login_issue"}
+{"id": "t0164", "aimed_category": "account_closure", "aimed_multi_intent": false, "tone": "terse", "length": "short", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0165", "aimed_category": "unexpected_charge", "aimed_multi_intent": false, "tone": "neutral", "length": "short", "noise": "", "identifiers": "email", "boundary": ""}
+{"id": "t0166", "aimed_category": "unexpected_charge", "aimed_multi_intent": false, "tone": "neutral", "length": "short", "noise": "", "identifiers": "invoice + account ID", "boundary": ""}
+{"id": "t0167", "aimed_category": "unexpected_charge", "aimed_multi_intent": false, "tone": "firm", "length": "short", "noise": "", "identifiers": "workspace subdomain", "boundary": ""}
+{"id": "t0168", "aimed_category": "unexpected_charge", "aimed_multi_intent": false, "tone": "annoyed", "length": "medium", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0169", "aimed_category": "unexpected_charge", "aimed_multi_intent": false, "tone": "annoyed", "length": "short", "noise": "lowercase", "identifiers": "invoice", "boundary": ""}
+{"id": "t0170", "aimed_category": "unexpected_charge", "aimed_multi_intent": false, "tone": "distressed", "length": "short", "noise": "", "identifiers": "account ID", "boundary": ""}
+{"id": "t0171", "aimed_category": "unexpected_charge", "aimed_multi_intent": false, "tone": "suspicious", "length": "medium", "noise": "", "identifiers": "email", "boundary": "unrecognised charge, mentions fraud; not compromised_account"}
+{"id": "t0172", "aimed_category": "unexpected_charge", "aimed_multi_intent": false, "tone": "frustrated", "length": "short", "noise": "", "identifiers": "workspace ID", "boundary": ""}
+{"id": "t0173", "aimed_category": "unexpected_charge", "aimed_multi_intent": false, "tone": "confused", "length": "long", "noise": "", "identifiers": "three invoice numbers", "boundary": ""}
+{"id": "t0174", "aimed_category": "unexpected_charge", "aimed_multi_intent": false, "tone": "neutral", "length": "short", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0175", "aimed_category": "unexpected_charge", "aimed_multi_intent": false, "tone": "confused", "length": "short", "noise": "ellipsis", "identifiers": "none", "boundary": "charged at end of trial; could be refund_request or trial_extension"}
+{"id": "t0176", "aimed_category": "unexpected_charge", "aimed_multi_intent": false, "tone": "terse", "length": "short", "noise": "lowercase", "identifiers": "account ID", "boundary": ""}
+{"id": "t0177", "aimed_category": "unexpected_charge", "aimed_multi_intent": false, "tone": "curious", "length": "very short", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0178", "aimed_category": "unexpected_charge", "aimed_multi_intent": false, "tone": "annoyed", "length": "short", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0179", "aimed_category": "unexpected_charge", "aimed_multi_intent": false, "tone": "formal", "length": "medium", "noise": "signature", "identifiers": "two invoice numbers", "boundary": ""}
+{"id": "t0180", "aimed_category": "unexpected_charge", "aimed_multi_intent": false, "tone": "neutral", "length": "short", "noise": "", "identifiers": "coupon code (not a reference)", "boundary": ""}
+{"id": "t0181", "aimed_category": "unexpected_charge", "aimed_multi_intent": false, "tone": "reasonable", "length": "medium", "noise": "", "identifiers": "org ID", "boundary": ""}
+{"id": "t0182", "aimed_category": "unexpected_charge", "aimed_multi_intent": false, "tone": "firm", "length": "short", "noise": "", "identifiers": "invoice", "boundary": "VAT treatment; could be invoice_request"}
+{"id": "t0183", "aimed_category": "unexpected_charge", "aimed_multi_intent": false, "tone": "angry", "length": "short", "noise": "", "identifiers": "none", "boundary": "charged after deletion; mentions account_closure"}
+{"id": "t0184", "aimed_category": "unexpected_charge", "aimed_multi_intent": false, "tone": "fed up", "length": "long", "noise": "", "identifiers": "account ID + invoice", "boundary": ""}
+{"id": "t0185", "aimed_category": "unexpected_charge", "aimed_multi_intent": true, "tone": "friendly", "length": "short", "noise": "signature", "identifiers": "none", "boundary": ""}
+{"id": "t0186", "aimed_category": "unexpected_charge", "aimed_multi_intent": false, "tone": "neutral", "length": "short", "noise": "", "identifiers": "none", "boundary": "charged the wrong card; could be payment_failure"}
+{"id": "t0187", "aimed_category": "unexpected_charge", "aimed_multi_intent": false, "tone": "skeptical", "length": "medium", "noise": "double punctuation", "identifiers": "none", "boundary": ""}
+{"id": "t0188", "aimed_category": "unexpected_charge", "aimed_multi_intent": false, "tone": "terse", "length": "very short", "noise": "lowercase, abbreviations", "identifiers": "email", "boundary": ""}
+{"id": "t0189", "aimed_category": "refund_request", "aimed_multi_intent": false, "tone": "apologetic", "length": "short", "noise": "", "identifiers": "email", "boundary": ""}
+{"id": "t0190", "aimed_category": "refund_request", "aimed_multi_intent": false, "tone": "polite", "length": "medium", "noise": "", "identifiers": "account ID", "boundary": ""}
+{"id": "t0191", "aimed_category": "refund_request", "aimed_multi_intent": false, "tone": "apologetic", "length": "short", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0192", "aimed_category": "refund_request", "aimed_multi_intent": false, "tone": "disappointed", "length": "medium", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0193", "aimed_category": "refund_request", "aimed_multi_intent": false, "tone": "polite", "length": "medium", "noise": "", "identifiers": "invoice", "boundary": ""}
+{"id": "t0194", "aimed_category": "refund_request", "aimed_multi_intent": false, "tone": "curious", "length": "short", "noise": "", "identifiers": "none", "boundary": "pre-purchase refund policy question; could be sales_inquiry"}
+{"id": "t0195", "aimed_category": "refund_request", "aimed_multi_intent": false, "tone": "neutral", "length": "medium", "noise": "", "identifiers": "workspace subdomain", "boundary": ""}
+{"id": "t0196", "aimed_category": "refund_request", "aimed_multi_intent": false, "tone": "impatient", "length": "short", "noise": "", "identifiers": "earlier ticket number", "boundary": ""}
+{"id": "t0197", "aimed_category": "refund_request", "aimed_multi_intent": true, "tone": "neutral", "length": "medium", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0198", "aimed_category": "refund_request", "aimed_multi_intent": false, "tone": "neutral", "length": "short", "noise": "", "identifiers": "account ID", "boundary": ""}
+{"id": "t0199", "aimed_category": "refund_request", "aimed_multi_intent": false, "tone": "angry", "length": "medium", "noise": "", "identifiers": "none", "boundary": "complaint about support; could be product_feedback"}
+{"id": "t0200", "aimed_category": "refund_request", "aimed_multi_intent": false, "tone": "neutral", "length": "short", "noise": "", "identifiers": "org ID", "boundary": ""}
+{"id": "t0201", "aimed_category": "refund_request", "aimed_multi_intent": true, "tone": "apologetic", "length": "medium", "noise": "", "identifiers": "two emails", "boundary": ""}
+{"id": "t0202", "aimed_category": "refund_request", "aimed_multi_intent": false, "tone": "principled", "length": "short", "noise": "", "identifiers": "none", "boundary": "credit for a past outage; not service_outage"}
+{"id": "t0203", "aimed_category": "refund_request", "aimed_multi_intent": false, "tone": "casual", "length": "short", "noise": "lowercase", "identifiers": "none", "boundary": ""}
+{"id": "t0204", "aimed_category": "refund_request", "aimed_multi_intent": false, "tone": "firm", "length": "medium", "noise": "", "identifiers": "account ID", "boundary": ""}
+{"id": "t0205", "aimed_category": "refund_request", "aimed_multi_intent": false, "tone": "vulnerable", "length": "medium", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0206", "aimed_category": "refund_request", "aimed_multi_intent": false, "tone": "neutral", "length": "short", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0207", "aimed_category": "refund_request", "aimed_multi_intent": false, "tone": "apologetic", "length": "short", "noise": "", "identifiers": "workspace subdomain", "boundary": ""}
+{"id": "t0208", "aimed_category": "cancellation", "aimed_multi_intent": true, "tone": "polite", "length": "short", "noise": "", "identifiers": "none", "boundary": "subject says refund first, body says cancel first"}
+{"id": "t0209", "aimed_category": "refund_request", "aimed_multi_intent": false, "tone": "polite", "length": "short", "noise": "", "identifiers": "email", "boundary": ""}
+{"id": "t0210", "aimed_category": "refund_request", "aimed_multi_intent": false, "tone": "threatening", "length": "short", "noise": "", "identifiers": "earlier ticket number", "boundary": ""}
+{"id": "t0211", "aimed_category": "user_management", "aimed_multi_intent": true, "tone": "friendly", "length": "medium", "noise": "", "identifiers": "invitee's email (not the account login)", "boundary": ""}
+{"id": "t0212", "aimed_category": "user_management", "aimed_multi_intent": false, "tone": "worried", "length": "short", "noise": "lowercase", "identifiers": "workspace ID", "boundary": ""}
+{"id": "t0213", "aimed_category": "user_management", "aimed_multi_intent": false, "tone": "cautious", "length": "short", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0214", "aimed_category": "privacy_compliance", "aimed_multi_intent": false, "tone": "formal", "length": "short", "noise": "", "identifiers": "email", "boundary": "deletion with GDPR framing → privacy_compliance, not account_closure"}
+{"id": "t0215", "aimed_category": "account_closure", "aimed_multi_intent": false, "tone": "neutral", "length": "short", "noise": "", "identifiers": "none", "boundary": ""}
+{"id": "t0216", "aimed_category": "refund_request", "aimed_multi_intent": true, "tone": "neutral", "length": "medium", "noise": "", "identifiers": "none", "boundary": "charges for their own forgotten workspace were valid; could be unexpected_charge"}
+{"id": "t0217", "aimed_category": "unexpected_charge", "aimed_multi_intent": false, "tone": "frustrated", "length": "short", "noise": "", "identifiers": "workspace ID", "boundary": ""}
+{"id": "t0218", "aimed_category": "unexpected_charge", "aimed_multi_intent": false, "tone": "neutral", "length": "short", "noise": "", "identifiers": "invoice", "boundary": ""}
+{"id": "t0219", "aimed_category": "refund_request", "aimed_multi_intent": false, "tone": "formal", "length": "short", "noise": "signature", "identifiers": "invoice", "boundary": ""}
+{"id": "t0220", "aimed_category": "refund_request", "aimed_multi_intent": false, "tone": "neutral", "length": "short", "noise": "", "identifiers": "invoice + workspace subdomain", "boundary": "paid with the wrong card; could be payment_failure"}
