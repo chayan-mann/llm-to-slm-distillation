@@ -8,6 +8,12 @@ dependencies = [
     "python-dotenv",
 ]
 
+[project.optional-dependencies]
+# fine-tuning and running the student on Apple Silicon
+train = [
+    "mlx-lm",
+]
+
 [build-system]
 requires = ["setuptools>=61"]
 build-backend = "setuptools.build_meta"

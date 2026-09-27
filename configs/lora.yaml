@@ -1,0 +1,39 @@
+# LoRA (QLoRA, since the base is 4-bit) fine-tune of the student.
+#
+# Run from the project root:
+#   export HF_HOME=~/models/huggingface HF_HUB_OFFLINE=1   # where the base model is cached
+#   python -m mlx_lm lora -c configs/lora.yaml
+#
+# Command-line flags override anything here (e.g. --iters 30 --adapter-path adapters/smoke).
+
+model: mlx-community/Qwen2.5-1.5B-Instruct-4bit
+train: true
+data: data/mlx                      # train.jsonl / valid.jsonl / test.jsonl in chat format
+seed: 0
+
+# Only learn the answer: the loss ignores the ticket text and the chat template.
+mask_prompt: true
+max_seq_length: 512                 # longest example is 304 tokens, so nothing is truncated
+
+fine_tune_type: lora
+num_layers: -1                      # adapters on all 28 layers
+lora_parameters:
+  rank: 8
+  dropout: 0.0
+  scale: 20.0
+
+optimizer: adam
+batch_size: 8
+iters: 450                          # 1,204 examples / 8 = ~150 steps per epoch, so ~3 epochs
+learning_rate: 5.0e-5
+lr_schedule:
+  name: cosine_decay
+  warmup: 20
+  warmup_init: 1.0e-7
+  arguments: [5.0e-5, 450, 5.0e-6]  # peak lr, decay steps, final lr
+
+steps_per_report: 10
+steps_per_eval: 50
+val_batches: -1                     # use the whole validation set (148 examples)
+save_every: 50                      # keep a checkpoint every 50 steps to pick the best later
+adapter_path: adapters/qwen2.5-1.5b-4bit-r8
