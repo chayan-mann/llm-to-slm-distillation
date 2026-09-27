@@ -6,6 +6,34 @@
 
 A big "teacher" model (`gpt-6-luna`) with a long rulebook prompt labels support tickets; a small "student" model (Qwen2.5-1.5B-Instruct, LoRA via `mlx-lm`) learns to produce the same labels from the ticket text alone.
 
+## What the model does
+
+It reads **one customer support message** for a SaaS product (web app, mobile apps, public API) and fills in a **routing slip**. It does not reply to the customer.
+
+| Field | Answers | Example |
+|---|---|---|
+| `category` | Which team handles it? One of 30 | `unexpected_charge` |
+| `multi_intent` | More than one kind of request? | `false` |
+| `urgency` | How fast to respond? | `low` / `normal` / `high` / `critical` |
+| `account_identifier` | Which customer account? | `acct_83jd92`, `acme.ourapp.com`, login email |
+| `reference_id` | Anything specific to look up? | `INV-4412`, `ERR_SYNC_409`, request ID |
+
+The 30 categories cover account & access (login, 2FA, SSO, users…), billing (charges, refunds, plans, invoices, trials…), technical (bugs, outages, integrations, API, mobile…), product (how-to, feature requests, feedback), security & compliance (vulnerabilities, hacked accounts, GDPR), sales, and out-of-scope messages. Full definitions are in [`docs/spec.md`](docs/spec.md).
+
+```
+$ python -m mlx_lm generate --model mlx-community/Qwen2.5-1.5B-Instruct-4bit \
+    --adapter-path adapters/qwen2.5-1.5b-4bit-r8-step350 --max-tokens 64 \
+    --prompt "I was charged twice this month, invoice INV-4412. Please fix."
+{"category":"unexpected_charge","multi_intent":false,"urgency":"normal","account_identifier":null,"reference_id":"INV-4412"}
+```
+
+**Training data:** 1,500 synthetic English tickets written for an imaginary product (varied tone, length, typos, quoted threads, ~18% multi-request, deliberate edge cases), all labeled by the teacher. Names, emails and IDs are made up.
+
+**Limits:** it only knows these 30 categories and this imaginary product. Real use means rerunning the pipeline on real tickets. It's English only, and it runs on Apple Silicon (MLX). A security issue mentioned second in a ticket can be under-prioritized (see the [eval report](docs/eval_report.md)), so pair it with a keyword check in production.
+
+**Use it** from Python (`mlx_lm.load(..., adapter_path=...)` + `generate`), or as a local OpenAI-compatible API:
+`python -m mlx_lm server --model mlx-community/Qwen2.5-1.5B-Instruct-4bit --adapter-path adapters/qwen2.5-1.5b-4bit-r8-step350 --port 8080`
+
 ## Status
 
 | Phase | State | Output |
@@ -16,23 +44,22 @@ A big "teacher" model (`gpt-6-luna`) with a long rulebook prompt labels support 
 | 3. Distillation labeling | ✅ all 1,500 labeled blind by the teacher | [`data/labeled/labels.jsonl`](data/labeled/labels.jsonl) |
 | 4. Quality pass | ✅ 2 rounds of spec fixes, ~96% of a 100-label review fully correct, 80/10/10 split | [`data/splits/`](data/splits/) |
 | 5. Formatting | ✅ MLX chat JSONL, every target validated | [`data/mlx/`](data/mlx/) |
-| 6. Fine-tuning | ⏳ next | |
-| 7–10 | ⏳ | |
-
-Output format (one line of JSON, keys always in this order):
-
-```json
-{"category":"unexpected_charge","multi_intent":false,"urgency":"normal","account_identifier":"acme.ourapp.com","reference_id":"INV-20931"}
-```
+| 6. Fine-tuning | ✅ QLoRA on Qwen2.5-1.5B-Instruct-4bit, ~20 min, checkpoint 350 | [`configs/lora.yaml`](configs/lora.yaml) |
+| 7. Evaluation | ✅ test: 100% valid JSON, 88.5% category, 72.3% all-fields-exact vs teacher | [`docs/eval_report.md`](docs/eval_report.md) |
+| 8. Latency | ✅ 0.28–0.38 s per ticket locally vs 1.96 s for the teacher API (5–7× faster), no per-ticket cost | [`docs/eval_report.md`](docs/eval_report.md#latency-and-efficiency) |
+| 9–10 | ⏳ | |
 
 ## Repository layout
 
 ```
 docs/spec.md                 Source of truth: categories, fields, edge cases, changelog
+docs/eval_report.md          Phase 7 results and error analysis
+configs/lora.yaml            LoRA training settings for mlx-lm
 prompts/teacher_system.md    The teacher's system prompt (generated from the spec by hand)
 src/ticket_router/
   spec.py                    Categories, JSON schema, input formatting, output validation
   teacher.py                 The one place the teacher API is called
+  metrics.py                 Scoring (spec §9): validity, per-field accuracy, macro-F1, ID fields split by null
 scripts/
   run_teacher.py             Phase 1: score the teacher on the hand-checked eval set
   check_raw.py               Phase 2: balance / near-duplicate checks, merges raw batches
@@ -40,6 +67,8 @@ scripts/
   review.py                  Phase 4: builds a local HTML page for human review of a label sample
   split.py                   Phase 4: freezes labels, 80/10/10 split stratified by category
   format_mlx.py              Phase 5: MLX chat-format JSONL + validation of every target
+  eval_student.py            Phase 6-7: score a LoRA checkpoint or fused model on valid / test / hand-checked tickets
+  benchmark.py               Phase 8: speed, memory and accuracy of student variants vs the teacher's API latency
 data/
   eval/manual_eval.jsonl     47 hand-checked tickets with gold answers (never used for training)
   raw/                       Unlabeled tickets (tickets.jsonl) and what each was written to test (recipes.jsonl)
@@ -65,7 +94,17 @@ python scripts/label.py              # label all raw tickets (~$1, ~40 min at 40
 python scripts/review.py make        # data/review/review.html for manual review
 python scripts/split.py              # data/splits/
 python scripts/format_mlx.py         # data/mlx/
+
+pip install -e ".[train]"             # mlx-lm (Apple Silicon)
+export HF_HOME=~/models/huggingface HF_HUB_OFFLINE=1   # where the base model is cached
+python -m mlx_lm lora -c configs/lora.yaml                                   # ~20 min on an M-series Mac
+python scripts/eval_student.py --adapter-dir adapters/qwen2.5-1.5b-4bit-r8 --split valid --all-checkpoints
+python scripts/eval_student.py --adapter-dir adapters/qwen2.5-1.5b-4bit-r8 --checkpoint 0000350 --split test
+python -m mlx_lm fuse --model mlx-community/Qwen2.5-1.5B-Instruct-4bit --adapter-path <adapter dir> --save-path models/<name> --dequantize
+python scripts/benchmark.py
 ```
+
+> Fuse with `--dequantize`: fusing a LoRA adapter back into a 4-bit model destroys most of the fine-tuning (see the eval report).
 
 `label.py --dry-run --out /tmp/x.jsonl` exercises the whole labeling path with a fake teacher and no API calls.
 
