@@ -34,6 +34,30 @@ $ python -m mlx_lm generate --model mlx-community/Qwen2.5-1.5B-Instruct-4bit \
 **Use it** from Python (`mlx_lm.load(..., adapter_path=...)` + `generate`), or as a local OpenAI-compatible API:
 `python -m mlx_lm server --model mlx-community/Qwen2.5-1.5B-Instruct-4bit --adapter-path adapters/qwen2.5-1.5b-4bit-r8-step350 --port 8080`
 
+### What the adapter is
+
+The router is two pieces used together:
+
+```
+base model  mlx-community/Qwen2.5-1.5B-Instruct-4bit   870 MB   general chat model, knows nothing about ticket routing
++ adapter   adapters/qwen2.5-1.5b-4bit-r8-step350/      35 MB   the part trained in this project
+= ticket router
+```
+
+Training used **LoRA**: the base model's 1.5B weights stay frozen, and small extra matrices added alongside its layers are trained instead. That's 9.2M numbers, about 0.6% of the model, learned from the 1,204 training tickets. They hold the whole task: the output format, the 30 categories, urgency and ID extraction. The folder has `adapters.safetensors` (the trained weights, checkpoint 350) and `adapter_config.json` (which base model it belongs to and the training settings).
+
+Why an adapter: training took ~20 minutes on a laptop, it's 35 MB to store or share, and one base model can carry several adapters for different tasks. It can also be fused into the base as one standalone model (`mlx_lm fuse --dequantize`, 2.9 GB). An adapter only works with the exact base model it was trained on.
+
+**Both run on every request.** The adapter isn't a model on its own: it has no vocabulary and no language understanding. For every token, the input goes through all 28 base layers, and at each adapted layer the adapter adds a small correction:
+
+```
+output = base_weights × input   +   adapter_weights × input
+         (1.5B, frozen: reads       (9.2M, trained: steers it to our
+          and writes language)       JSON, categories and rules)
+```
+
+About 99% of the compute and ~1 GB of memory is the base model. The adapter adds ~0.6% and 35 MB. Base alone gives chatbot replies (0/10 valid in the baseline), the adapter alone can't run, and together they're the router. Fusing just does the addition once ahead of time, so the math at runtime is the same.
+
 ## Status
 
 | Phase | State | Output |
