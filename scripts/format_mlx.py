@@ -1,4 +1,4 @@
-"""Phase 5: turn the frozen splits into MLX chat-format JSONL for fine-tuning.
+"""turn the frozen splits into MLX chat-format JSONL for fine-tuning.
 
 Usage:
     python scripts/format_mlx.py

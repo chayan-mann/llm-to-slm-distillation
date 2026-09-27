@@ -1,4 +1,4 @@
-"""Phase 4: freeze the teacher labels and split them 80/10/10, stratified by category.
+"""freeze the teacher labels and split them 80/10/10, stratified by category.
 
 Usage:
     python scripts/split.py

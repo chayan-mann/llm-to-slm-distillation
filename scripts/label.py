@@ -1,4 +1,4 @@
-"""Phase 3: label every raw ticket with the teacher, blind.
+"""label every raw ticket with the teacher, blind.
 
 Usage:
     python scripts/label.py [--limit N] [--workers 8]

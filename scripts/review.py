@@ -1,4 +1,4 @@
-"""Phase 4: human review of a sample of teacher labels.
+""" human review of a sample of teacher labels.
 
 Usage:
     python scripts/review.py make                   # build data/review/review.html from the labels
