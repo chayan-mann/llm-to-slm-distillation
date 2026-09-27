@@ -21,18 +21,21 @@ It reads **one customer support message** for a SaaS product (web app, mobile ap
 The 30 categories cover account & access (login, 2FA, SSO, users…), billing (charges, refunds, plans, invoices, trials…), technical (bugs, outages, integrations, API, mobile…), product (how-to, feature requests, feedback), security & compliance (vulnerabilities, hacked accounts, GDPR), sales, and out-of-scope messages. Full definitions are in [`docs/spec.md`](docs/spec.md).
 
 ```
-$ python -m mlx_lm generate --model mlx-community/Qwen2.5-1.5B-Instruct-4bit \
-    --adapter-path adapters/qwen2.5-1.5b-4bit-r8-step350 --max-tokens 64 \
-    --prompt "I was charged twice this month, invoice INV-4412. Please fix."
-{"category":"unexpected_charge","multi_intent":false,"urgency":"normal","account_identifier":null,"reference_id":"INV-4412"}
+$ python ticket-router/route.py "I was charged twice this month, invoice INV-4412. Please fix."
+{"category": "unexpected_charge", "multi_intent": false, "urgency": "normal", "account_identifier": null, "reference_id": "INV-4412", "needs_review": false, "review_reason": null}
 ```
 
 **Training data:** 1,500 synthetic English tickets written for an imaginary product (varied tone, length, typos, quoted threads, ~18% multi-request, deliberate edge cases), all labeled by the teacher. Names, emails and IDs are made up.
 
 **Limits:** it only knows these 30 categories and this imaginary product. Real use means rerunning the pipeline on real tickets. It's English only, and it runs on Apple Silicon (MLX). A security issue mentioned second in a ticket can be under-prioritized (see the [eval report](docs/eval_report.md)), so pair it with a keyword check in production.
 
-**Use it** from Python (`mlx_lm.load(..., adapter_path=...)` + `generate`), or as a local OpenAI-compatible API:
-`python -m mlx_lm server --model mlx-community/Qwen2.5-1.5B-Instruct-4bit --adapter-path adapters/qwen2.5-1.5b-4bit-r8-step350 --port 8080`
+**Use it:** [`ticket-router/`](ticket-router/) is a standalone folder (one `route.py` + the 35 MB adapter) that runs the router from the command line, over a file, or as a local HTTP API, with output validation and a security safety net (`needs_review`) built in:
+
+```bash
+pip install -r ticket-router/requirements.txt
+python ticket-router/route.py "I was charged twice this month, invoice INV-4412"
+python ticket-router/route.py --serve --port 8080     # POST /route {"text": "..."}
+```
 
 ### What the adapter is
 
@@ -40,7 +43,7 @@ The router is two pieces used together:
 
 ```
 base model  mlx-community/Qwen2.5-1.5B-Instruct-4bit   870 MB   general chat model, knows nothing about ticket routing
-+ adapter   adapters/qwen2.5-1.5b-4bit-r8-step350/      35 MB   the part trained in this project
++ adapter   ticket-router/adapter/                      35 MB   the part trained in this project
 = ticket router
 ```
 
@@ -71,11 +74,13 @@ About 99% of the compute and ~1 GB of memory is the base model. The adapter adds
 | 6. Fine-tuning | ✅ QLoRA on Qwen2.5-1.5B-Instruct-4bit, ~20 min, checkpoint 350 | [`configs/lora.yaml`](configs/lora.yaml) |
 | 7. Evaluation | ✅ test: 100% valid JSON, 88.5% category, 72.3% all-fields-exact vs teacher | [`docs/eval_report.md`](docs/eval_report.md) |
 | 8. Latency | ✅ 0.28–0.38 s per ticket locally vs 1.96 s for the teacher API (5–7× faster), no per-ticket cost | [`docs/eval_report.md`](docs/eval_report.md#latency-and-efficiency) |
-| 9–10 | ⏳ | |
+| 9. Iterate | ⏳ optional: targeted data for the weak rules in the eval report | |
+| 10. Packaging | ✅ standalone runnable router with validation + security safety net | [`ticket-router/`](ticket-router/) |
 
 ## Repository layout
 
 ```
+ticket-router/               Standalone runnable router: route.py + the trained adapter
 docs/spec.md                 Source of truth: categories, fields, edge cases, changelog
 docs/eval_report.md          Phase 7 results and error analysis
 configs/lora.yaml            LoRA training settings for mlx-lm

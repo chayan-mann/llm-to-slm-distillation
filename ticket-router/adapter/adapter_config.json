@@ -1,0 +1,50 @@
+{
+    "adapter_path": "adapters/qwen2.5-1.5b-4bit-r8",
+    "batch_size": 8,
+    "clear_cache_threshold": 0,
+    "config": "configs/lora.yaml",
+    "data": "data/mlx",
+    "fine_tune_type": "lora",
+    "grad_accumulation_steps": 1,
+    "grad_checkpoint": false,
+    "iters": 450,
+    "learning_rate": 5e-05,
+    "lora_parameters": {
+        "rank": 8,
+        "dropout": 0.0,
+        "scale": 20.0
+    },
+    "lr_schedule": {
+        "name": "cosine_decay",
+        "warmup": 20,
+        "warmup_init": 1e-07,
+        "arguments": [
+            5e-05,
+            450,
+            5e-06
+        ]
+    },
+    "mask_prompt": true,
+    "max_seq_length": 512,
+    "model": "mlx-community/Qwen2.5-1.5B-Instruct-4bit",
+    "num_layers": -1,
+    "optimizer": "adam",
+    "optimizer_config": {
+        "adam": {},
+        "adamw": {},
+        "muon": {},
+        "sgd": {},
+        "adafactor": {}
+    },
+    "project_name": null,
+    "report_to": null,
+    "resume_adapter_file": null,
+    "save_every": 50,
+    "seed": 0,
+    "steps_per_eval": 50,
+    "steps_per_report": 10,
+    "test": false,
+    "test_batches": 500,
+    "train": true,
+    "val_batches": -1
+}

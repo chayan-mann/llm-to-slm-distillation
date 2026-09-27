@@ -34,3 +34,6 @@ checkpoints/
 
 # Local Claude Code settings
 .claude/settings.local.json
+
+# The packaged router's adapter is small (35 MB) and needed to run it, so it is committed
+!ticket-router/adapter/*.safetensors
