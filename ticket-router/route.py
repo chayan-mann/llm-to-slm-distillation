@@ -7,10 +7,6 @@ Usage:
     python route.py --file tickets.txt            # one ticket per line -> one JSON line each
     python route.py --serve --port 8080           # POST /route {"text": "...", "subject": "..."}
 
-Output: one JSON object per ticket with the five routing fields, plus two safety fields:
-    needs_review   true if a human should look at this ticket regardless of the routing
-    review_reason  why (security words the model didn't treat as security, or invalid output)
-
 The base model (mlx-community/Qwen2.5-1.5B-Instruct-4bit, ~870 MB) is downloaded from
 Hugging Face on first run and cached. Set HF_HOME to reuse an existing download.
 The adapter in ./adapter must stay paired with that exact base model.
