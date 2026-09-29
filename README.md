@@ -6,6 +6,8 @@
 
 A big "teacher" model (`gpt-6-luna`) with a long rulebook prompt labels support tickets; a small "student" model (Qwen2.5-1.5B-Instruct, LoRA via `mlx-lm`) learns to produce the same labels from the ticket text alone.
 
+![Pipeline: the teacher labels training data once; at runtime only the student runs](docs/images/0_pipeline.png)
+
 ## What the model does
 
 It reads **one customer support message** for a SaaS product (web app, mobile apps, public API) and fills in a **routing slip**. It does not reply to the customer.
@@ -77,12 +79,25 @@ About 99% of the compute and ~1 GB of memory is the base model. The adapter adds
 | 9. Iterate | ⏳ optional: targeted data for the weak rules in the eval report | |
 | 10. Packaging | ✅ standalone runnable router with validation + security safety net | [`ticket-router/`](ticket-router/) |
 
+## Results
+
+Numbers from [`docs/eval_report.md`](docs/eval_report.md).
+
+![Student accuracy per field, vs the teacher's test labels and vs the hand-checked gold set](docs/images/4_accuracy.png)
+
+![Median and p95 latency: teacher API vs three student variants](docs/images/1_latency.png)
+
+![Validation accuracy at each training checkpoint; step 350 was picked](docs/images/3_training.png)
+
+![Fusing the adapter into 4-bit destroys it; keep it separate or fuse at full precision](docs/images/2_fusing.png)
+
 ## Repository layout
 
 ```
 ticket-router/               Standalone runnable router: route.py + the trained adapter
 docs/spec.md                 Source of truth: categories, fields, edge cases, changelog
 docs/eval_report.md          Phase 7 results and error analysis
+docs/images/                 Pipeline diagram and result charts used in this README
 configs/lora.yaml            LoRA training settings for mlx-lm
 prompts/teacher_system.md    The teacher's system prompt (generated from the spec by hand)
 src/ticket_router/
